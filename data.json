@@ -45,6 +45,66 @@
       "artists": ["LoFi Dreamer"],
       "album": "Chill Lo-Fi Music",
       "duration": "3:40"
+    },
+    {
+      "id": 3,
+      "albumId": 1,
+      "url": "https://imanol-llona-music-files.pages.dev/2024-11-01/171.mp3",
+      "title": "Skyline Serenade",
+      "image": "https://imanol-llona-music-files.pages.dev/2024-11-01/cover.jpg",
+      "artists": ["LoFi Dreamer"],
+      "album": "Chill Lo-Fi Music",
+      "duration": "3:29"
+    },
+    {
+      "id": 4,
+      "albumId": 1,
+      "url": "https://imanol-llona-music-files.pages.dev/2024-11-01/172.mp3",
+      "title": "Urban Echoes",
+      "image": "https://imanol-llona-music-files.pages.dev/2024-11-01/cover.jpg",
+      "artists": ["LoFi Dreamer"],
+      "album": "Chill Lo-Fi Music",
+      "duration": "2:11"
+    },
+    {
+      "id": 5,
+      "albumId": 1,
+      "url": "https://imanol-llona-music-files.pages.dev/2024-11-01/173.mp3",
+      "title": "Night's End",
+      "image": "https://imanol-llona-music-files.pages.dev/2024-11-01/cover.jpg",
+      "artists": ["LoFi Dreamer"],
+      "album": "Chill Lo-Fi Music",
+      "duration": "2:26"
+    },
+    {
+      "id": 6,
+      "albumId": 1,
+      "url": "https://imanol-llona-music-files.pages.dev/2024-11-01/174.mp3",
+      "title": "Night's End",
+      "image": "https://imanol-llona-music-files.pages.dev/2024-11-01/cover.jpg",
+      "artists": ["LoFi Dreamer"],
+      "album": "Chill Lo-Fi Music",
+      "duration": "2:26"
+    },
+    {
+      "id": 7,
+      "albumId": 2,
+      "url": "https://imanol-llona-music-files.pages.dev/2024-11-01/034.mp3",
+      "title": "Silent Rain",
+      "image": "https://vinyl.lofirecords.com/cdn/shop/files/2amsynth-vinyl.png?v=1693312187",
+      "artists": ["Urban Nocturne"],
+      "album": "Midnight Tales",
+      "duration": "2:38"
+    },
+    {
+      "id": 8,
+      "albumId": 2,
+      "url": "https://imanol-llona-music-files.pages.dev/2024-11-01/034.mp3",
+      "title": "Lost Pages",
+      "image": "https://vinyl.lofirecords.com/cdn/shop/files/2amsynth-vinyl.png?v=1693312187",
+      "artists": ["Urban Nocturne"],
+      "album": "Midnight Tales",
+      "duration": "2:40"
     }
   ]
 }
