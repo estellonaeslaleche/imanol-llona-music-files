@@ -3,7 +3,7 @@
     {
       "id": "1",
       "albumId": 1,
-      "title": "Chill Lo-Fi Music",
+      "title": "Album 1",
       "color": "yellow",
       "cover": "https://imanol-llona-music-files.pages.dev/2024-11-01/cover.jpg",
       "artists": ["Imanol Llona"],
@@ -15,7 +15,7 @@
     {
       "id": "2",
       "albumId": 2,
-      "title": "Lo-Fi Chill Session444",
+      "title": "Album 2",
       "color": "green",
       "cover": "https://vinyl.lofirecords.com/cdn/shop/files/2amsynth-vinyl.png?v=1693312187",
       "artists": ["Imanol Llona"],
