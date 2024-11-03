@@ -23,6 +23,18 @@
       "releaseYear": "2019",
       "releaseMonth": "September",
       "releaseDay": "13"
+    },
+    {
+      "id": "3",
+      "albumId": 3,
+      "title": "Lo-Fi Chill Session 3",
+      "color": "green",
+      "cover": "https://vinyl.lofirecords.com/cdn/shop/files/2amsynth-vinyl.png?v=1693312187",
+      "artists": ["Kupla", "Blue Fox"],
+      "duration": "14 min 30 sec",
+      "releaseYear": "2019",
+      "releaseMonth": "September",
+      "releaseDay": "13"
     }
   ],
   "songs": [
