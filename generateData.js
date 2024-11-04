@@ -1,11 +1,21 @@
 const fs = require('fs');
 const path = require('path');
-const mm = require('music-metadata').default;
+const mp3Duration = require('mp3-duration');
 
 async function formatDuration(duration) {
   const minutes = Math.floor(duration / 60);
   const seconds = Math.floor(duration % 60);
   return `${minutes}:${seconds < 10 ? '0' : ''}${seconds}`;
+}
+
+// Envuelve mp3Duration en una función que retorna una Promise
+function getMp3Duration(filePath) {
+  return new Promise((resolve, reject) => {
+    mp3Duration(filePath, (err, duration) => {
+      if (err) return reject(err);
+      resolve(duration);
+    });
+  });
 }
 
 async function generateData() {
@@ -57,16 +67,13 @@ async function generateData() {
       }
     }
 
-    // Obtiene la imagen de portada si no está en info.txt
     const coverFilePath = path.join(albumDir, 'cover.jpg');
     if (!albumData.cover && fs.existsSync(coverFilePath)) {
       albumData.cover = `https://imanol-llona-music-files.pages.dev/albums/${album.name}/cover.jpg`;
     }
 
-    // Procesa solo los archivos MP3
     let albumDuration = 0;
     const files = fs.readdirSync(albumDir);
-
     let trackIndex = 0;
 
     for (const file of files) {
@@ -74,9 +81,8 @@ async function generateData() {
 
       if (file.endsWith('.mp3')) {
         try {
-          // const metadata = await mm.parseFile(filePath);
-          // const duration = metadata.format.duration;
-          // albumDuration += duration;
+          const duration = await getMp3Duration(filePath);
+          albumDuration += duration;
 
           data.songs.push({
             id: songId,
@@ -86,11 +92,10 @@ async function generateData() {
             image: albumData.cover || `https://imanol-llona-music-files.pages.dev/albums/${album.name}/cover.jpg`,
             artists: ["Imanol Llona"],
             album: albumData.title,
-            // duration: await formatDuration(duration)
+            duration: await formatDuration(duration)
           });
           songId++;
           trackIndex++;
-
         } catch (error) {
           console.error(`Error obteniendo duración de ${file}:`, error);
         }
