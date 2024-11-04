@@ -69,6 +69,48 @@
       "releaseYear": "2024",
       "releaseMonth": "November",
       "releaseDay": "04"
+    },
+    {
+      "id": "20241101",
+      "albumId": 6,
+      "title": "2024-11-01",
+      "color": "",
+      "cover": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01 - copia (2)/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "duration": "25 min 13 sec",
+      "releaseYear": "2024",
+      "releaseMonth": "November",
+      "releaseDay": "04"
+    },
+    {
+      "id": "20241101",
+      "albumId": 7,
+      "title": "2024-11-01",
+      "color": "",
+      "cover": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01 - copia (3)/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "duration": "25 min 13 sec",
+      "releaseYear": "2024",
+      "releaseMonth": "November",
+      "releaseDay": "04"
+    },
+    {
+      "id": "20241101",
+      "albumId": 8,
+      "title": "2024-11-01",
+      "color": "",
+      "cover": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01 - copia (4)/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "duration": "25 min 13 sec",
+      "releaseYear": "2024",
+      "releaseMonth": "November",
+      "releaseDay": "04"
     }
   ],
   "songs": [
@@ -370,6 +412,222 @@
         "Imanol Llona"
       ],
       "album": "2024-11-01 copia",
+      "duration": "4:58"
+    },
+    {
+      "id": 26,
+      "albumId": 6,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01 - copia (2)/034.mp3",
+      "title": "034",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01 - copia (2)/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "2024-11-01",
+      "duration": "4:10"
+    },
+    {
+      "id": 27,
+      "albumId": 6,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01 - copia (2)/170.mp3",
+      "title": "170",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01 - copia (2)/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "2024-11-01",
+      "duration": "4:08"
+    },
+    {
+      "id": 28,
+      "albumId": 6,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01 - copia (2)/171.mp3",
+      "title": "171",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01 - copia (2)/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "2024-11-01",
+      "duration": "2:59"
+    },
+    {
+      "id": 29,
+      "albumId": 6,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01 - copia (2)/172.mp3",
+      "title": "172",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01 - copia (2)/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "2024-11-01",
+      "duration": "4:15"
+    },
+    {
+      "id": 30,
+      "albumId": 6,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01 - copia (2)/173.mp3",
+      "title": "173",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01 - copia (2)/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "2024-11-01",
+      "duration": "4:41"
+    },
+    {
+      "id": 31,
+      "albumId": 6,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01 - copia (2)/174.mp3",
+      "title": "174",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01 - copia (2)/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "2024-11-01",
+      "duration": "4:58"
+    },
+    {
+      "id": 32,
+      "albumId": 7,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01 - copia (3)/034.mp3",
+      "title": "034",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01 - copia (3)/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "2024-11-01",
+      "duration": "4:10"
+    },
+    {
+      "id": 33,
+      "albumId": 7,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01 - copia (3)/170.mp3",
+      "title": "170",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01 - copia (3)/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "2024-11-01",
+      "duration": "4:08"
+    },
+    {
+      "id": 34,
+      "albumId": 7,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01 - copia (3)/171.mp3",
+      "title": "171",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01 - copia (3)/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "2024-11-01",
+      "duration": "2:59"
+    },
+    {
+      "id": 35,
+      "albumId": 7,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01 - copia (3)/172.mp3",
+      "title": "172",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01 - copia (3)/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "2024-11-01",
+      "duration": "4:15"
+    },
+    {
+      "id": 36,
+      "albumId": 7,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01 - copia (3)/173.mp3",
+      "title": "173",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01 - copia (3)/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "2024-11-01",
+      "duration": "4:41"
+    },
+    {
+      "id": 37,
+      "albumId": 7,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01 - copia (3)/174.mp3",
+      "title": "174",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01 - copia (3)/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "2024-11-01",
+      "duration": "4:58"
+    },
+    {
+      "id": 38,
+      "albumId": 8,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01 - copia (4)/034.mp3",
+      "title": "034",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01 - copia (4)/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "2024-11-01",
+      "duration": "4:10"
+    },
+    {
+      "id": 39,
+      "albumId": 8,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01 - copia (4)/170.mp3",
+      "title": "170",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01 - copia (4)/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "2024-11-01",
+      "duration": "4:08"
+    },
+    {
+      "id": 40,
+      "albumId": 8,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01 - copia (4)/171.mp3",
+      "title": "171",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01 - copia (4)/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "2024-11-01",
+      "duration": "2:59"
+    },
+    {
+      "id": 41,
+      "albumId": 8,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01 - copia (4)/172.mp3",
+      "title": "172",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01 - copia (4)/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "2024-11-01",
+      "duration": "4:15"
+    },
+    {
+      "id": 42,
+      "albumId": 8,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01 - copia (4)/173.mp3",
+      "title": "173",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01 - copia (4)/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "2024-11-01",
+      "duration": "4:41"
+    },
+    {
+      "id": 43,
+      "albumId": 8,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01 - copia (4)/174.mp3",
+      "title": "174",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01 - copia (4)/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "2024-11-01",
       "duration": "4:58"
     }
   ]
