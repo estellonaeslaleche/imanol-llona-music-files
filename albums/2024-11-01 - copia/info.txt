@@ -1,4 +1,0 @@
-Albumtitle: 2024-11-01 copia
-Albumcover:
-ReleaseDate: 2024-November-04
-#TrackNames: Completo,02,03,04,05,06
