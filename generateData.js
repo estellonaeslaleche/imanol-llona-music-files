@@ -20,15 +20,13 @@ async function generateData() {
   const albums = fs.readdirSync(rootDir, { withFileTypes: true })
     .filter(dirent => dirent.isDirectory());
 
-  console.log(albums)
-
   for (const album of albums) {
     const albumDir = path.join(rootDir, album.name);
     const albumData = {
       id: albumId.toString(),
       albumId,
       title: '',
-      color: 'yellow', 
+      color: '', 
       cover: '',
       artists: ['Imanol Llona'],
       duration: '',
@@ -37,49 +35,65 @@ async function generateData() {
       releaseDay: ''
     };
 
+    let trackNames = [];
+
+    const infoFilePath = path.join(albumDir, 'info.txt');
+    if (fs.existsSync(infoFilePath)) {
+      const fileContent = fs.readFileSync(infoFilePath, 'utf-8');
+      const lines = fileContent.split('\n');
+      for (const line of lines) {
+        if (line.startsWith('Albumtitle:')) {
+          albumData.title = line.replace('Albumtitle:', '').trim();
+        } else if (line.startsWith('Albumcover:')) {
+          albumData.cover = line.replace('Albumcover:', '').trim();
+        } else if (line.startsWith('ReleaseDate:')) {
+          const [year, month, day] = line.replace('ReleaseDate:', '').trim().split('-');
+          albumData.releaseYear = year;
+          albumData.releaseMonth = month;
+          albumData.releaseDay = day;
+        } else if (line.startsWith('TrackNames:')) {
+          trackNames = line.replace('TrackNames:', '').trim().split(',').map(name => name.trim());
+        }
+      }
+    }
+
+    // Obtiene la imagen de portada si no está en info.txt
+    const coverFilePath = path.join(albumDir, 'cover.jpg');
+    if (!albumData.cover && fs.existsSync(coverFilePath)) {
+      albumData.cover = `https://imanol-llona-music-files.pages.dev/albums/${album.name}/cover.jpg`;
+    }
+
+    // Procesa solo los archivos MP3
     let albumDuration = 0;
     const files = fs.readdirSync(albumDir);
+
+    let trackIndex = 0;
 
     for (const file of files) {
       const filePath = path.join(albumDir, file);
 
-      if (file.endsWith('.txt')) {
-        const fileContent = fs.readFileSync(filePath, 'utf-8');
-        const lines = fileContent.split('\n');
-        for (const line of lines) {
-          if (line.startsWith('Albumtitle:')) {
-            albumData.title = line.replace('Albumtitle:', '').trim();
-          } else if (line.startsWith('Albumcover:')) {
-            albumData.cover = line.replace('Albumcover:', '').trim();
-          } else if (line.startsWith('ReleaseDate:')) {
-            const [year, month, day] = line.replace('ReleaseDate:', '').trim().split('-');
-            albumData.releaseYear = year;
-            albumData.releaseMonth = month;
-            albumData.releaseDay = day;
-          }
-        }
-      } else if (file.endsWith('.mp3')) {
+      if (file.endsWith('.mp3')) {
         try {
-          /*const metadata = await mm.parseFile(filePath);
-          const duration = metadata.format.duration;
-          albumDuration += duration;*/
+          // const metadata = await mm.parseFile(filePath);
+          // const duration = metadata.format.duration;
+          // albumDuration += duration;
 
           data.songs.push({
             id: songId,
             albumId,
             url: `https://imanol-llona-music-files.pages.dev/albums/${album.name}/${file}`,
-            title: path.parse(file).name,
+            title: trackNames[trackIndex] || path.parse(file).name,
             image: albumData.cover || `https://imanol-llona-music-files.pages.dev/albums/${album.name}/cover.jpg`,
             artists: ["Imanol Llona"],
             album: albumData.title,
-            //duration: await formatDuration(duration)
+            // duration: await formatDuration(duration)
           });
           songId++;
+          trackIndex++;
+
         } catch (error) {
           console.error(`Error obteniendo duración de ${file}:`, error);
         }
-      } else if (file.endsWith('.jpg')) {
-        albumData.cover = `https://imanol-llona-music-files.pages.dev/albums/${album.name}/${file}`;
       }
     }
 

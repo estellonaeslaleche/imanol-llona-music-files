@@ -3,16 +3,16 @@
     {
       "id": "1",
       "albumId": 1,
-      "title": "",
-      "color": "yellow",
+      "title": "Album 1",
+      "color": "",
       "cover": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
       "duration": "0 min 0 sec",
-      "releaseYear": "",
-      "releaseMonth": "",
-      "releaseDay": ""
+      "releaseYear": "2024",
+      "releaseMonth": "November",
+      "releaseDay": "04"
     }
   ],
   "songs": [
@@ -20,67 +20,67 @@
       "id": 1,
       "albumId": 1,
       "url": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01/034.mp3",
-      "title": "034",
+      "title": "Completo",
       "image": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": ""
+      "album": "Album 1"
     },
     {
       "id": 2,
       "albumId": 1,
       "url": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01/170.mp3",
-      "title": "170",
+      "title": "02",
       "image": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": ""
+      "album": "Album 1"
     },
     {
       "id": 3,
       "albumId": 1,
       "url": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01/171.mp3",
-      "title": "171",
+      "title": "03",
       "image": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": ""
+      "album": "Album 1"
     },
     {
       "id": 4,
       "albumId": 1,
       "url": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01/172.mp3",
-      "title": "172",
+      "title": "04",
       "image": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": ""
+      "album": "Album 1"
     },
     {
       "id": 5,
       "albumId": 1,
       "url": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01/173.mp3",
-      "title": "173",
+      "title": "05",
       "image": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": ""
+      "album": "Album 1"
     },
     {
       "id": 6,
       "albumId": 1,
       "url": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01/174.mp3",
-      "title": "174",
+      "title": "06",
       "image": "https://imanol-llona-music-files.pages.dev/albums/2024-11-01/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": ""
+      "album": "Album 1"
     }
   ]
 }
