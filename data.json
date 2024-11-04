@@ -1,7 +1,7 @@
 {
   "playlists": [
     {
-      "id": "2024-05-28",
+      "id": "20240528",
       "albumId": 1,
       "title": "2024-05-28",
       "color": "",
@@ -15,7 +15,7 @@
       "releaseDay": "28"
     },
     {
-      "id": "2",
+      "id": "20240607",
       "albumId": 2,
       "title": "2024-06-07",
       "color": "",
@@ -29,7 +29,7 @@
       "releaseDay": "07"
     },
     {
-      "id": "3",
+      "id": "20240607-copia",
       "albumId": 3,
       "title": "2024-06-07 copia",
       "color": "",
@@ -43,7 +43,7 @@
       "releaseDay": "07"
     },
     {
-      "id": "4",
+      "id": "20241101",
       "albumId": 4,
       "title": "2024-11-01",
       "color": "",
@@ -57,7 +57,7 @@
       "releaseDay": "04"
     },
     {
-      "id": "5",
+      "id": "20241101-copia",
       "albumId": 5,
       "title": "2024-11-01 copia",
       "color": "",

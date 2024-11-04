@@ -18,6 +18,16 @@ function getMp3Duration(filePath) {
   });
 }
 
+function createSlug(title) {
+  return title
+    .toLowerCase()                // Convierte a minúsculas
+    .normalize("NFD")              // Normaliza para separar caracteres especiales
+    .replace(/[\u0300-\u036f]/g, "") // Elimina los acentos
+    .replace(/[^a-z0-9 ]/g, "")    // Elimina caracteres no alfanuméricos, excepto espacios
+    .trim()                        // Elimina espacios iniciales y finales
+    .replace(/\s+/g, "-");         // Reemplaza espacios por guiones
+}
+
 async function generateData() {
   const data = {
     playlists: [],
@@ -54,6 +64,7 @@ async function generateData() {
       for (const line of lines) {
         if (line.startsWith('Albumtitle:')) {
           albumData.title = line.replace('Albumtitle:', '').trim();
+          albumData.id = createSlug(albumData.title)
         } else if (line.startsWith('Albumcover:')) {
           albumData.cover = line.replace('Albumcover:', '').trim();
         } else if (line.startsWith('ReleaseDate:')) {
