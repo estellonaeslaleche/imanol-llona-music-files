@@ -244,7 +244,7 @@
       "id": 15,
       "albumId": 4,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Disco 1/01 Sena.mp3",
-      "title": "01 Sena",
+      "title": "Sena",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Disco 1/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -256,7 +256,7 @@
       "id": 16,
       "albumId": 4,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Disco 1/02 Aita.mp3",
-      "title": "02 Aita",
+      "title": "Aita",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Disco 1/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -268,7 +268,7 @@
       "id": 17,
       "albumId": 4,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Disco 1/03 Hiru.mp3",
-      "title": "03 Hiru",
+      "title": "Hiru",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Disco 1/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -280,7 +280,7 @@
       "id": 18,
       "albumId": 4,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Disco 1/04 Urdina.mp3",
-      "title": "04 Urdina",
+      "title": "Urdina",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Disco 1/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -292,7 +292,7 @@
       "id": 19,
       "albumId": 4,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Disco 1/05 Suite.mp3",
-      "title": "05 Suite",
+      "title": "Suite",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Disco 1/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -304,7 +304,7 @@
       "id": 20,
       "albumId": 4,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Disco 1/06 Epilogo.mp3",
-      "title": "06 Epilogo",
+      "title": "Epílogo",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Disco 1/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -316,7 +316,7 @@
       "id": 21,
       "albumId": 5,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Disco 2/01 - Terciopelo.mp3",
-      "title": "01 - Terciopelo",
+      "title": "Terciopelo",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Disco 2/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -328,7 +328,7 @@
       "id": 22,
       "albumId": 5,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Disco 2/02 - Nubes altas.mp3",
-      "title": "02 - Nubes altas",
+      "title": "Nubas altas",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Disco 2/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -340,7 +340,7 @@
       "id": 23,
       "albumId": 5,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Disco 2/03 - Madrigal.mp3",
-      "title": "03 - Madrigal",
+      "title": "Madrigal",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Disco 2/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -352,7 +352,7 @@
       "id": 24,
       "albumId": 5,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Disco 2/04 - Requiem.mp3",
-      "title": "04 - Requiem",
+      "title": "Requiem",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Disco 2/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -364,7 +364,7 @@
       "id": 25,
       "albumId": 5,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Disco 2/05 - Pequeña suite parte 1.mp3",
-      "title": "05 - Pequeña suite parte 1",
+      "title": "Pequeña suite parte 1",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Disco 2/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -376,7 +376,7 @@
       "id": 26,
       "albumId": 5,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Disco 2/06 - Pequeña suite parte 2.mp3",
-      "title": "06 - Pequeña suite parte 2",
+      "title": "Pequeña suite parte 2",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Disco 2/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -388,7 +388,7 @@
       "id": 27,
       "albumId": 5,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Disco 2/07 - Marcha.mp3",
-      "title": "07 - Marcha",
+      "title": "Marcha",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Disco 2/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -400,7 +400,7 @@
       "id": 28,
       "albumId": 5,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Disco 2/08 - Percepción.mp3",
-      "title": "08 - Percepción",
+      "title": "Percepción",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Disco 2/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -412,7 +412,7 @@
       "id": 29,
       "albumId": 5,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Disco 2/09 - Niebla en el Tirol.mp3",
-      "title": "09 - Niebla en el Tirol",
+      "title": "Niebla en el Tirol",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Disco 2/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -424,7 +424,7 @@
       "id": 30,
       "albumId": 5,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Disco 2/10 - Función continua.mp3",
-      "title": "10 - Función continua",
+      "title": "Función contínua",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Disco 2/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -436,7 +436,7 @@
       "id": 31,
       "albumId": 5,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Disco 2/11 - Señales de alarma.mp3",
-      "title": "11 - Señales de alarma",
+      "title": "Señales de alarma",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Disco 2/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -448,7 +448,7 @@
       "id": 32,
       "albumId": 5,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Disco 2/12 - Contrastes e interrogantes.mp3",
-      "title": "12 - Contrastes e interrogantes",
+      "title": "Contrastes e interrogantes",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Disco 2/cover.jpg",
       "artists": [
         "Imanol Llona"
