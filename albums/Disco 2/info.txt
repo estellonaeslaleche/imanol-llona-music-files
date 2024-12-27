@@ -1,0 +1,4 @@
+Albumtitle: Disco 2
+Albumcover:
+ReleaseDate: 2021-May-09
+#TrackNames: Completo,02,03,04,05,06
