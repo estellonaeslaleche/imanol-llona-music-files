@@ -87,65 +87,40 @@ async function generateData() {
     }
 
     let albumDuration = 0;
-    const files = fs.readdirSync(albumDir);
+    let files
     let trackIndex = 0;
 
-    if(trackOrder.length > 0) {
+    if(trackOrder.length > 0)
+      files = trackOrder;
+    else
+      files = fs.readdirSync(albumDir);
+    
+    for (const file of files) {
+      const filePath = path.join(albumDir, file);
 
-      for (const track of trackOrder) {
-        const filePath = path.join(albumDir, track);
+      if (file.endsWith('.mp3')) {
+        try {
+          const duration = await getMp3Duration(filePath);
+          albumDuration += duration;
 
-        if (track.endsWith('.mp3')) {
-          try {
-            const duration = await getMp3Duration(filePath);
-            albumDuration += duration;
-
-            data.songs.push({
-              id: songId,
-              albumId,
-              url: `https://imanol-llona-music-files.pages.dev/albums/${album.name}/${track}`,
-              title: trackNames[trackIndex] || path.parse(track).name,
-              image: albumData.cover || `https://imanol-llona-music-files.pages.dev/albums/${album.name}/cover.jpg`,
-              artists: ["Imanol Llona"],
-              album: albumData.title,
-              duration: await formatDuration(duration)
-            });
-            songId++;
-            trackIndex++;
-          } catch (error) {
-            console.error(`Error obteniendo duración de ${track}:`, error);
-          }
-        }
-      }
-
-
-    } else {
-      for (const file of files) {
-        const filePath = path.join(albumDir, file);
-
-        if (file.endsWith('.mp3')) {
-          try {
-            const duration = await getMp3Duration(filePath);
-            albumDuration += duration;
-
-            data.songs.push({
-              id: songId,
-              albumId,
-              url: `https://imanol-llona-music-files.pages.dev/albums/${album.name}/${file}`,
-              title: trackNames[trackIndex] || path.parse(file).name,
-              image: albumData.cover || `https://imanol-llona-music-files.pages.dev/albums/${album.name}/cover.jpg`,
-              artists: ["Imanol Llona"],
-              album: albumData.title,
-              duration: await formatDuration(duration)
-            });
-            songId++;
-            trackIndex++;
-          } catch (error) {
-            console.error(`Error obteniendo duración de ${file}:`, error);
-          }
+          data.songs.push({
+            id: songId,
+            albumId,
+            url: `https://imanol-llona-music-files.pages.dev/albums/${album.name}/${file}`,
+            title: trackNames[trackIndex] || path.parse(file).name,
+            image: albumData.cover || `https://imanol-llona-music-files.pages.dev/albums/${album.name}/cover.jpg`,
+            artists: ["Imanol Llona"],
+            album: albumData.title,
+            duration: await formatDuration(duration)
+          });
+          songId++;
+          trackIndex++;
+        } catch (error) {
+          console.error(`Error obteniendo duración de ${file}:`, error);
         }
       }
     }
+    
 
     albumData.duration = `${Math.floor(albumDuration / 60)} min ${Math.floor(albumDuration % 60)} sec`;
     data.playlists.push(albumData);
