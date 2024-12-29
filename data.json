@@ -83,6 +83,20 @@
       "releaseYear": "2021",
       "releaseMonth": "May",
       "releaseDay": "09"
+    },
+    {
+      "id": "blues",
+      "albumId": 7,
+      "title": "Blues",
+      "color": "",
+      "cover": "https://imanol-llona-music-files.pages.dev/albums/Blues/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "duration": "2 min 13 sec",
+      "releaseYear": "2021",
+      "releaseMonth": "May",
+      "releaseDay": "09"
     }
   ],
   "songs": [
@@ -997,6 +1011,18 @@
       ],
       "album": "Alternativo",
       "duration": "2:08"
+    },
+    {
+      "id": 77,
+      "albumId": 7,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Blues/01 - 15.mp3",
+      "title": "01 - 15",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Blues/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Blues",
+      "duration": "2:13"
     }
   ]
 }
