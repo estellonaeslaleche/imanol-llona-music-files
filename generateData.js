@@ -56,6 +56,7 @@ async function generateData() {
     };
 
     let trackNames = [];
+    let trackOrder = [];
 
     const infoFilePath = path.join(albumDir, 'info.txt');
     if (fs.existsSync(infoFilePath)) {
@@ -74,6 +75,8 @@ async function generateData() {
           albumData.releaseDay = day;
         } else if (line.startsWith('TrackNames:')) {
           trackNames = line.replace('TrackNames:', '').trim().split(',').map(name => name.trim());
+        } else if (line.startsWith('TrackOrder:')) {
+          trackOrder = line.replace('TrackOrder:', '').trim().split(',').map(name => name.trim());
         }
       }
     }
@@ -87,28 +90,59 @@ async function generateData() {
     const files = fs.readdirSync(albumDir);
     let trackIndex = 0;
 
-    for (const file of files) {
-      const filePath = path.join(albumDir, file);
+    if(trackOrder.length > 0) {
 
-      if (file.endsWith('.mp3')) {
-        try {
-          const duration = await getMp3Duration(filePath);
-          albumDuration += duration;
+      for (const track of trackOrder) {
+        const filePath = path.join(albumDir, track);
 
-          data.songs.push({
-            id: songId,
-            albumId,
-            url: `https://imanol-llona-music-files.pages.dev/albums/${album.name}/${file}`,
-            title: trackNames[trackIndex] || path.parse(file).name,
-            image: albumData.cover || `https://imanol-llona-music-files.pages.dev/albums/${album.name}/cover.jpg`,
-            artists: ["Imanol Llona"],
-            album: albumData.title,
-            duration: await formatDuration(duration)
-          });
-          songId++;
-          trackIndex++;
-        } catch (error) {
-          console.error(`Error obteniendo duración de ${file}:`, error);
+        if (track.endsWith('.mp3')) {
+          try {
+            const duration = await getMp3Duration(filePath);
+            albumDuration += duration;
+
+            data.songs.push({
+              id: songId,
+              albumId,
+              url: `https://imanol-llona-music-files.pages.dev/albums/${album.name}/${track}`,
+              title: trackNames[trackIndex] || path.parse(track).name,
+              image: albumData.cover || `https://imanol-llona-music-files.pages.dev/albums/${album.name}/cover.jpg`,
+              artists: ["Imanol Llona"],
+              album: albumData.title,
+              duration: await formatDuration(duration)
+            });
+            songId++;
+            trackIndex++;
+          } catch (error) {
+            console.error(`Error obteniendo duración de ${track}:`, error);
+          }
+        }
+      }
+
+
+    } else {
+      for (const file of files) {
+        const filePath = path.join(albumDir, file);
+
+        if (file.endsWith('.mp3')) {
+          try {
+            const duration = await getMp3Duration(filePath);
+            albumDuration += duration;
+
+            data.songs.push({
+              id: songId,
+              albumId,
+              url: `https://imanol-llona-music-files.pages.dev/albums/${album.name}/${file}`,
+              title: trackNames[trackIndex] || path.parse(file).name,
+              image: albumData.cover || `https://imanol-llona-music-files.pages.dev/albums/${album.name}/cover.jpg`,
+              artists: ["Imanol Llona"],
+              album: albumData.title,
+              duration: await formatDuration(duration)
+            });
+            songId++;
+            trackIndex++;
+          } catch (error) {
+            console.error(`Error obteniendo duración de ${file}:`, error);
+          }
         }
       }
     }
