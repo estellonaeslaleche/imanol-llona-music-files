@@ -1,11 +1,25 @@
 {
   "playlists": [
     {
-      "id": "disco-2",
+      "id": "disco-1",
       "albumId": 1,
+      "title": "Disco 1",
+      "color": "",
+      "cover": "https://imanol-llona-music-files.pages.dev/albums/-Disco 1/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "duration": "29 min 49 sec",
+      "releaseYear": "2021",
+      "releaseMonth": "May",
+      "releaseDay": "09"
+    },
+    {
+      "id": "disco-2",
+      "albumId": 2,
       "title": "Disco 2",
       "color": "",
-      "cover": "https://imanol-llona-music-files.pages.dev/albums/#Disco 2/cover.jpg",
+      "cover": "https://imanol-llona-music-files.pages.dev/albums/-Disco 2/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
@@ -16,10 +30,10 @@
     },
     {
       "id": "disco-3",
-      "albumId": 2,
+      "albumId": 3,
       "title": "Disco 3",
       "color": "",
-      "cover": "https://imanol-llona-music-files.pages.dev/albums/#Disco 3/cover.jpg",
+      "cover": "https://imanol-llona-music-files.pages.dev/albums/-Disco 3/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
@@ -30,10 +44,10 @@
     },
     {
       "id": "disco-4",
-      "albumId": 3,
+      "albumId": 4,
       "title": "Disco 4",
       "color": "",
-      "cover": "https://imanol-llona-music-files.pages.dev/albums/#Disco 4/cover.jpg",
+      "cover": "https://imanol-llona-music-files.pages.dev/albums/-Disco 4/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
@@ -44,28 +58,14 @@
     },
     {
       "id": "disco-5",
-      "albumId": 4,
+      "albumId": 5,
       "title": "Disco 5",
       "color": "",
-      "cover": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/cover.jpg",
+      "cover": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
       "duration": "52 min 22 sec",
-      "releaseYear": "2021",
-      "releaseMonth": "May",
-      "releaseDay": "09"
-    },
-    {
-      "id": "disco-1",
-      "albumId": 5,
-      "title": "Disco 1",
-      "color": "",
-      "cover": "https://imanol-llona-music-files.pages.dev/albums/-Disco 1/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "duration": "29 min 49 sec",
       "releaseYear": "2021",
       "releaseMonth": "May",
       "releaseDay": "09"
@@ -89,774 +89,6 @@
     {
       "id": 1,
       "albumId": 1,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 2/01 - Terciopelo.mp3",
-      "title": "Terciopelo",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 2/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 2",
-      "duration": "2:25"
-    },
-    {
-      "id": 2,
-      "albumId": 1,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 2/02 - Nubes altas.mp3",
-      "title": "Nubas altas",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 2/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 2",
-      "duration": "2:55"
-    },
-    {
-      "id": 3,
-      "albumId": 1,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 2/03 - Madrigal.mp3",
-      "title": "Madrigal",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 2/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 2",
-      "duration": "4:39"
-    },
-    {
-      "id": 4,
-      "albumId": 1,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 2/04 - Requiem.mp3",
-      "title": "Requiem",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 2/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 2",
-      "duration": "1:33"
-    },
-    {
-      "id": 5,
-      "albumId": 1,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 2/05 - Pequeña suite parte 1.mp3",
-      "title": "Pequeña suite parte 1",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 2/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 2",
-      "duration": "0:55"
-    },
-    {
-      "id": 6,
-      "albumId": 1,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 2/06 - Pequeña suite parte 2.mp3",
-      "title": "Pequeña suite parte 2",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 2/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 2",
-      "duration": "0:53"
-    },
-    {
-      "id": 7,
-      "albumId": 1,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 2/07 - Marcha.mp3",
-      "title": "Marcha",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 2/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 2",
-      "duration": "0:49"
-    },
-    {
-      "id": 8,
-      "albumId": 1,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 2/08 - Percepción.mp3",
-      "title": "Percepción",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 2/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 2",
-      "duration": "1:51"
-    },
-    {
-      "id": 9,
-      "albumId": 1,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 2/09 - Niebla en el Tirol.mp3",
-      "title": "Niebla en el Tirol",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 2/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 2",
-      "duration": "2:40"
-    },
-    {
-      "id": 10,
-      "albumId": 1,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 2/10 - Función continua.mp3",
-      "title": "Función contínua",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 2/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 2",
-      "duration": "3:41"
-    },
-    {
-      "id": 11,
-      "albumId": 1,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 2/11 - Señales de alarma.mp3",
-      "title": "Señales de alarma",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 2/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 2",
-      "duration": "2:42"
-    },
-    {
-      "id": 12,
-      "albumId": 1,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 2/12 - Contrastes e interrogantes.mp3",
-      "title": "Contrastes e interrogantes",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 2/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 2",
-      "duration": "5:09"
-    },
-    {
-      "id": 13,
-      "albumId": 2,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 3/01.mp3",
-      "title": "01",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 3/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 3",
-      "duration": "0:50"
-    },
-    {
-      "id": 14,
-      "albumId": 2,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 3/02.mp3",
-      "title": "02",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 3/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 3",
-      "duration": "2:04"
-    },
-    {
-      "id": 15,
-      "albumId": 2,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 3/03.mp3",
-      "title": "03",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 3/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 3",
-      "duration": "1:36"
-    },
-    {
-      "id": 16,
-      "albumId": 2,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 3/04.mp3",
-      "title": "04",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 3/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 3",
-      "duration": "3:38"
-    },
-    {
-      "id": 17,
-      "albumId": 2,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 3/05.mp3",
-      "title": "05",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 3/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 3",
-      "duration": "1:52"
-    },
-    {
-      "id": 18,
-      "albumId": 2,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 3/06.mp3",
-      "title": "06",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 3/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 3",
-      "duration": "1:15"
-    },
-    {
-      "id": 19,
-      "albumId": 2,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 3/07.mp3",
-      "title": "07",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 3/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 3",
-      "duration": "1:39"
-    },
-    {
-      "id": 20,
-      "albumId": 2,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 3/08.mp3",
-      "title": "08",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 3/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 3",
-      "duration": "1:41"
-    },
-    {
-      "id": 21,
-      "albumId": 2,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 3/09.mp3",
-      "title": "09",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 3/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 3",
-      "duration": "1:15"
-    },
-    {
-      "id": 22,
-      "albumId": 2,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 3/10.mp3",
-      "title": "10",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 3/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 3",
-      "duration": "1:52"
-    },
-    {
-      "id": 23,
-      "albumId": 2,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 3/11.mp3",
-      "title": "11",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 3/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 3",
-      "duration": "2:02"
-    },
-    {
-      "id": 24,
-      "albumId": 2,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 3/12.mp3",
-      "title": "12",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 3/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 3",
-      "duration": "1:26"
-    },
-    {
-      "id": 25,
-      "albumId": 2,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 3/13.mp3",
-      "title": "13",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 3/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 3",
-      "duration": "1:35"
-    },
-    {
-      "id": 26,
-      "albumId": 2,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 3/14.mp3",
-      "title": "14",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 3/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 3",
-      "duration": "1:45"
-    },
-    {
-      "id": 27,
-      "albumId": 2,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 3/15.mp3",
-      "title": "15",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 3/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 3",
-      "duration": "2:13"
-    },
-    {
-      "id": 28,
-      "albumId": 3,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 4/16.mp3",
-      "title": "16",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 4/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 4",
-      "duration": "0:44"
-    },
-    {
-      "id": 29,
-      "albumId": 3,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 4/17.mp3",
-      "title": "17",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 4/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 4",
-      "duration": "2:02"
-    },
-    {
-      "id": 30,
-      "albumId": 3,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 4/18.mp3",
-      "title": "18",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 4/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 4",
-      "duration": "2:31"
-    },
-    {
-      "id": 31,
-      "albumId": 3,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 4/19.mp3",
-      "title": "19",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 4/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 4",
-      "duration": "1:41"
-    },
-    {
-      "id": 32,
-      "albumId": 3,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 4/20.mp3",
-      "title": "20",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 4/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 4",
-      "duration": "1:41"
-    },
-    {
-      "id": 33,
-      "albumId": 3,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 4/21.mp3",
-      "title": "21",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 4/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 4",
-      "duration": "1:33"
-    },
-    {
-      "id": 34,
-      "albumId": 3,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 4/22.mp3",
-      "title": "22",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 4/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 4",
-      "duration": "2:08"
-    },
-    {
-      "id": 35,
-      "albumId": 3,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 4/23.mp3",
-      "title": "23",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 4/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 4",
-      "duration": "2:41"
-    },
-    {
-      "id": 36,
-      "albumId": 3,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 4/24.mp3",
-      "title": "24",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 4/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 4",
-      "duration": "1:23"
-    },
-    {
-      "id": 37,
-      "albumId": 3,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 4/25.mp3",
-      "title": "25",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 4/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 4",
-      "duration": "2:05"
-    },
-    {
-      "id": 38,
-      "albumId": 3,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 4/26.mp3",
-      "title": "26",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 4/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 4",
-      "duration": "2:31"
-    },
-    {
-      "id": 39,
-      "albumId": 3,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 4/27.mp3",
-      "title": "27",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 4/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 4",
-      "duration": "0:45"
-    },
-    {
-      "id": 40,
-      "albumId": 3,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 4/28.mp3",
-      "title": "28",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 4/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 4",
-      "duration": "2:53"
-    },
-    {
-      "id": 41,
-      "albumId": 3,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 4/29.mp3",
-      "title": "29",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 4/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 4",
-      "duration": "1:55"
-    },
-    {
-      "id": 42,
-      "albumId": 3,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 4/30.mp3",
-      "title": "30",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 4/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 4",
-      "duration": "2:44"
-    },
-    {
-      "id": 43,
-      "albumId": 4,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/01 - Alvaro - Cancion - Corporativa - 5.mp3",
-      "title": "01 - Alvaro - Cancion - Corporativa - 5",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 5",
-      "duration": "6:59"
-    },
-    {
-      "id": 44,
-      "albumId": 4,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/02 - 138.mp3",
-      "title": "02 - 138",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 5",
-      "duration": "1:26"
-    },
-    {
-      "id": 45,
-      "albumId": 4,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/03 - 100.mp3",
-      "title": "03 - 100",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 5",
-      "duration": "2:08"
-    },
-    {
-      "id": 46,
-      "albumId": 4,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/04 - 114.mp3",
-      "title": "04 - 114",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 5",
-      "duration": "3:07"
-    },
-    {
-      "id": 47,
-      "albumId": 4,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/05 - 133.mp3",
-      "title": "05 - 133",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 5",
-      "duration": "2:04"
-    },
-    {
-      "id": 48,
-      "albumId": 4,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/06 - 9.mp3",
-      "title": "06 - 9",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 5",
-      "duration": "1:59"
-    },
-    {
-      "id": 49,
-      "albumId": 4,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/07 - 151.mp3",
-      "title": "07 - 151",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 5",
-      "duration": "1:39"
-    },
-    {
-      "id": 50,
-      "albumId": 4,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/08 - Andrew 1.mp3",
-      "title": "08 - Andrew 1",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 5",
-      "duration": "2:08"
-    },
-    {
-      "id": 51,
-      "albumId": 4,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/09 - Alvaro - Trailer - 2.mp3",
-      "title": "09 - Alvaro - Trailer - 2",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 5",
-      "duration": "2:06"
-    },
-    {
-      "id": 52,
-      "albumId": 4,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/10 - 79.mp3",
-      "title": "10 - 79",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 5",
-      "duration": "2:13"
-    },
-    {
-      "id": 53,
-      "albumId": 4,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/11 - 04.mp3",
-      "title": "11 - 04",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 5",
-      "duration": "3:38"
-    },
-    {
-      "id": 54,
-      "albumId": 4,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/12 - 18.mp3",
-      "title": "12 - 18",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 5",
-      "duration": "2:31"
-    },
-    {
-      "id": 55,
-      "albumId": 4,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/13 - 29.mp3",
-      "title": "13 - 29",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 5",
-      "duration": "1:55"
-    },
-    {
-      "id": 56,
-      "albumId": 4,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/14 - 01.mp3",
-      "title": "14 - 01",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 5",
-      "duration": "1:37"
-    },
-    {
-      "id": 57,
-      "albumId": 4,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/15 - 30.mp3",
-      "title": "15 - 30",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 5",
-      "duration": "2:44"
-    },
-    {
-      "id": 58,
-      "albumId": 4,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/16 - 11.mp3",
-      "title": "16 - 11",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 5",
-      "duration": "1:30"
-    },
-    {
-      "id": 59,
-      "albumId": 4,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/17 - 09.mp3",
-      "title": "17 - 09",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 5",
-      "duration": "1:15"
-    },
-    {
-      "id": 60,
-      "albumId": 4,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/18 - 01.mp3",
-      "title": "18 - 01",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 5",
-      "duration": "0:50"
-    },
-    {
-      "id": 61,
-      "albumId": 4,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/19 - 28.mp3",
-      "title": "19 - 28",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 5",
-      "duration": "2:53"
-    },
-    {
-      "id": 62,
-      "albumId": 4,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/20 - 23.mp3",
-      "title": "20 - 23",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 5",
-      "duration": "2:41"
-    },
-    {
-      "id": 63,
-      "albumId": 4,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/21 - 02.mp3",
-      "title": "21 - 02",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 5",
-      "duration": "1:06"
-    },
-    {
-      "id": 64,
-      "albumId": 4,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/22 - 23.mp3",
-      "title": "22 - 23",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/#Disco 5/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "Disco 5",
-      "duration": "3:45"
-    },
-    {
-      "id": 65,
-      "albumId": 5,
       "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 1/01 Sena.mp3",
       "title": "Sena",
       "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 1/cover.jpg",
@@ -867,8 +99,8 @@
       "duration": "1:27"
     },
     {
-      "id": 66,
-      "albumId": 5,
+      "id": 2,
+      "albumId": 1,
       "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 1/02 Aita.mp3",
       "title": "Aita",
       "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 1/cover.jpg",
@@ -879,8 +111,8 @@
       "duration": "2:50"
     },
     {
-      "id": 67,
-      "albumId": 5,
+      "id": 3,
+      "albumId": 1,
       "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 1/03 Hiru.mp3",
       "title": "Hiru",
       "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 1/cover.jpg",
@@ -891,8 +123,8 @@
       "duration": "3:37"
     },
     {
-      "id": 68,
-      "albumId": 5,
+      "id": 4,
+      "albumId": 1,
       "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 1/04 Urdina.mp3",
       "title": "Urdina",
       "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 1/cover.jpg",
@@ -903,8 +135,8 @@
       "duration": "3:06"
     },
     {
-      "id": 69,
-      "albumId": 5,
+      "id": 5,
+      "albumId": 1,
       "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 1/05 Suite.mp3",
       "title": "Suite",
       "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 1/cover.jpg",
@@ -915,8 +147,8 @@
       "duration": "15:34"
     },
     {
-      "id": 70,
-      "albumId": 5,
+      "id": 6,
+      "albumId": 1,
       "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 1/06 Epilogo.mp3",
       "title": "Epílogo",
       "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 1/cover.jpg",
@@ -925,6 +157,774 @@
       ],
       "album": "Disco 1",
       "duration": "3:13"
+    },
+    {
+      "id": 7,
+      "albumId": 2,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 2/01 - Terciopelo.mp3",
+      "title": "Terciopelo",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 2/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 2",
+      "duration": "2:25"
+    },
+    {
+      "id": 8,
+      "albumId": 2,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 2/02 - Nubes altas.mp3",
+      "title": "Nubas altas",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 2/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 2",
+      "duration": "2:55"
+    },
+    {
+      "id": 9,
+      "albumId": 2,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 2/03 - Madrigal.mp3",
+      "title": "Madrigal",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 2/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 2",
+      "duration": "4:39"
+    },
+    {
+      "id": 10,
+      "albumId": 2,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 2/04 - Requiem.mp3",
+      "title": "Requiem",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 2/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 2",
+      "duration": "1:33"
+    },
+    {
+      "id": 11,
+      "albumId": 2,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 2/05 - Pequeña suite parte 1.mp3",
+      "title": "Pequeña suite parte 1",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 2/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 2",
+      "duration": "0:55"
+    },
+    {
+      "id": 12,
+      "albumId": 2,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 2/06 - Pequeña suite parte 2.mp3",
+      "title": "Pequeña suite parte 2",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 2/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 2",
+      "duration": "0:53"
+    },
+    {
+      "id": 13,
+      "albumId": 2,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 2/07 - Marcha.mp3",
+      "title": "Marcha",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 2/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 2",
+      "duration": "0:49"
+    },
+    {
+      "id": 14,
+      "albumId": 2,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 2/08 - Percepción.mp3",
+      "title": "Percepción",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 2/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 2",
+      "duration": "1:51"
+    },
+    {
+      "id": 15,
+      "albumId": 2,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 2/09 - Niebla en el Tirol.mp3",
+      "title": "Niebla en el Tirol",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 2/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 2",
+      "duration": "2:40"
+    },
+    {
+      "id": 16,
+      "albumId": 2,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 2/10 - Función continua.mp3",
+      "title": "Función contínua",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 2/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 2",
+      "duration": "3:41"
+    },
+    {
+      "id": 17,
+      "albumId": 2,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 2/11 - Señales de alarma.mp3",
+      "title": "Señales de alarma",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 2/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 2",
+      "duration": "2:42"
+    },
+    {
+      "id": 18,
+      "albumId": 2,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 2/12 - Contrastes e interrogantes.mp3",
+      "title": "Contrastes e interrogantes",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 2/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 2",
+      "duration": "5:09"
+    },
+    {
+      "id": 19,
+      "albumId": 3,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 3/01.mp3",
+      "title": "01",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 3/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 3",
+      "duration": "0:50"
+    },
+    {
+      "id": 20,
+      "albumId": 3,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 3/02.mp3",
+      "title": "02",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 3/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 3",
+      "duration": "2:04"
+    },
+    {
+      "id": 21,
+      "albumId": 3,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 3/03.mp3",
+      "title": "03",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 3/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 3",
+      "duration": "1:36"
+    },
+    {
+      "id": 22,
+      "albumId": 3,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 3/04.mp3",
+      "title": "04",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 3/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 3",
+      "duration": "3:38"
+    },
+    {
+      "id": 23,
+      "albumId": 3,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 3/05.mp3",
+      "title": "05",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 3/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 3",
+      "duration": "1:52"
+    },
+    {
+      "id": 24,
+      "albumId": 3,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 3/06.mp3",
+      "title": "06",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 3/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 3",
+      "duration": "1:15"
+    },
+    {
+      "id": 25,
+      "albumId": 3,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 3/07.mp3",
+      "title": "07",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 3/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 3",
+      "duration": "1:39"
+    },
+    {
+      "id": 26,
+      "albumId": 3,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 3/08.mp3",
+      "title": "08",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 3/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 3",
+      "duration": "1:41"
+    },
+    {
+      "id": 27,
+      "albumId": 3,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 3/09.mp3",
+      "title": "09",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 3/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 3",
+      "duration": "1:15"
+    },
+    {
+      "id": 28,
+      "albumId": 3,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 3/10.mp3",
+      "title": "10",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 3/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 3",
+      "duration": "1:52"
+    },
+    {
+      "id": 29,
+      "albumId": 3,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 3/11.mp3",
+      "title": "11",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 3/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 3",
+      "duration": "2:02"
+    },
+    {
+      "id": 30,
+      "albumId": 3,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 3/12.mp3",
+      "title": "12",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 3/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 3",
+      "duration": "1:26"
+    },
+    {
+      "id": 31,
+      "albumId": 3,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 3/13.mp3",
+      "title": "13",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 3/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 3",
+      "duration": "1:35"
+    },
+    {
+      "id": 32,
+      "albumId": 3,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 3/14.mp3",
+      "title": "14",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 3/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 3",
+      "duration": "1:45"
+    },
+    {
+      "id": 33,
+      "albumId": 3,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 3/15.mp3",
+      "title": "15",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 3/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 3",
+      "duration": "2:13"
+    },
+    {
+      "id": 34,
+      "albumId": 4,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 4/16.mp3",
+      "title": "16",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 4/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 4",
+      "duration": "0:44"
+    },
+    {
+      "id": 35,
+      "albumId": 4,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 4/17.mp3",
+      "title": "17",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 4/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 4",
+      "duration": "2:02"
+    },
+    {
+      "id": 36,
+      "albumId": 4,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 4/18.mp3",
+      "title": "18",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 4/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 4",
+      "duration": "2:31"
+    },
+    {
+      "id": 37,
+      "albumId": 4,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 4/19.mp3",
+      "title": "19",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 4/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 4",
+      "duration": "1:41"
+    },
+    {
+      "id": 38,
+      "albumId": 4,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 4/20.mp3",
+      "title": "20",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 4/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 4",
+      "duration": "1:41"
+    },
+    {
+      "id": 39,
+      "albumId": 4,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 4/21.mp3",
+      "title": "21",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 4/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 4",
+      "duration": "1:33"
+    },
+    {
+      "id": 40,
+      "albumId": 4,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 4/22.mp3",
+      "title": "22",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 4/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 4",
+      "duration": "2:08"
+    },
+    {
+      "id": 41,
+      "albumId": 4,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 4/23.mp3",
+      "title": "23",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 4/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 4",
+      "duration": "2:41"
+    },
+    {
+      "id": 42,
+      "albumId": 4,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 4/24.mp3",
+      "title": "24",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 4/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 4",
+      "duration": "1:23"
+    },
+    {
+      "id": 43,
+      "albumId": 4,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 4/25.mp3",
+      "title": "25",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 4/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 4",
+      "duration": "2:05"
+    },
+    {
+      "id": 44,
+      "albumId": 4,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 4/26.mp3",
+      "title": "26",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 4/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 4",
+      "duration": "2:31"
+    },
+    {
+      "id": 45,
+      "albumId": 4,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 4/27.mp3",
+      "title": "27",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 4/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 4",
+      "duration": "0:45"
+    },
+    {
+      "id": 46,
+      "albumId": 4,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 4/28.mp3",
+      "title": "28",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 4/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 4",
+      "duration": "2:53"
+    },
+    {
+      "id": 47,
+      "albumId": 4,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 4/29.mp3",
+      "title": "29",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 4/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 4",
+      "duration": "1:55"
+    },
+    {
+      "id": 48,
+      "albumId": 4,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 4/30.mp3",
+      "title": "30",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 4/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 4",
+      "duration": "2:44"
+    },
+    {
+      "id": 49,
+      "albumId": 5,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/01 - Alvaro - Cancion - Corporativa - 5.mp3",
+      "title": "01 - Alvaro - Cancion - Corporativa - 5",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 5",
+      "duration": "6:59"
+    },
+    {
+      "id": 50,
+      "albumId": 5,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/02 - 138.mp3",
+      "title": "02 - 138",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 5",
+      "duration": "1:26"
+    },
+    {
+      "id": 51,
+      "albumId": 5,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/03 - 100.mp3",
+      "title": "03 - 100",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 5",
+      "duration": "2:08"
+    },
+    {
+      "id": 52,
+      "albumId": 5,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/04 - 114.mp3",
+      "title": "04 - 114",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 5",
+      "duration": "3:07"
+    },
+    {
+      "id": 53,
+      "albumId": 5,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/05 - 133.mp3",
+      "title": "05 - 133",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 5",
+      "duration": "2:04"
+    },
+    {
+      "id": 54,
+      "albumId": 5,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/06 - 9.mp3",
+      "title": "06 - 9",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 5",
+      "duration": "1:59"
+    },
+    {
+      "id": 55,
+      "albumId": 5,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/07 - 151.mp3",
+      "title": "07 - 151",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 5",
+      "duration": "1:39"
+    },
+    {
+      "id": 56,
+      "albumId": 5,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/08 - Andrew 1.mp3",
+      "title": "08 - Andrew 1",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 5",
+      "duration": "2:08"
+    },
+    {
+      "id": 57,
+      "albumId": 5,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/09 - Alvaro - Trailer - 2.mp3",
+      "title": "09 - Alvaro - Trailer - 2",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 5",
+      "duration": "2:06"
+    },
+    {
+      "id": 58,
+      "albumId": 5,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/10 - 79.mp3",
+      "title": "10 - 79",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 5",
+      "duration": "2:13"
+    },
+    {
+      "id": 59,
+      "albumId": 5,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/11 - 04.mp3",
+      "title": "11 - 04",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 5",
+      "duration": "3:38"
+    },
+    {
+      "id": 60,
+      "albumId": 5,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/12 - 18.mp3",
+      "title": "12 - 18",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 5",
+      "duration": "2:31"
+    },
+    {
+      "id": 61,
+      "albumId": 5,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/13 - 29.mp3",
+      "title": "13 - 29",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 5",
+      "duration": "1:55"
+    },
+    {
+      "id": 62,
+      "albumId": 5,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/14 - 01.mp3",
+      "title": "14 - 01",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 5",
+      "duration": "1:37"
+    },
+    {
+      "id": 63,
+      "albumId": 5,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/15 - 30.mp3",
+      "title": "15 - 30",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 5",
+      "duration": "2:44"
+    },
+    {
+      "id": 64,
+      "albumId": 5,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/16 - 11.mp3",
+      "title": "16 - 11",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 5",
+      "duration": "1:30"
+    },
+    {
+      "id": 65,
+      "albumId": 5,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/17 - 09.mp3",
+      "title": "17 - 09",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 5",
+      "duration": "1:15"
+    },
+    {
+      "id": 66,
+      "albumId": 5,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/18 - 01.mp3",
+      "title": "18 - 01",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 5",
+      "duration": "0:50"
+    },
+    {
+      "id": 67,
+      "albumId": 5,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/19 - 28.mp3",
+      "title": "19 - 28",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 5",
+      "duration": "2:53"
+    },
+    {
+      "id": 68,
+      "albumId": 5,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/20 - 23.mp3",
+      "title": "20 - 23",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 5",
+      "duration": "2:41"
+    },
+    {
+      "id": 69,
+      "albumId": 5,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/21 - 02.mp3",
+      "title": "21 - 02",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 5",
+      "duration": "1:06"
+    },
+    {
+      "id": 70,
+      "albumId": 5,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/22 - 23.mp3",
+      "title": "22 - 23",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 5/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Disco 5",
+      "duration": "3:45"
     },
     {
       "id": 71,
