@@ -1,4 +1,4 @@
 Albumtitle: Bat
 Albumcover:
 ReleaseDate: 2021-May-09
-TrackNames: Sena,Aita,Hiru,Urdina,Suite,Epílogo
+TrackNames: Sena,Cuento Épico,Azul,Escalera de caracol,Suite,Epílogo
