@@ -1,5 +1,6 @@
-Albumtitle: Disco 4
+Albumtitle: Lau
 Albumcover:
 ReleaseDate: 2021-May-09
+TrackOrder: 18.mp3,19.mp3,20.mp3,17.mp3,22.mp3,23.mp3,25.mp3,16.mp3,27.mp3,28.mp3,29.mp3,30.mp3
 #TrackOrder: 18.mp3,19.mp3,20.mp3,17.mp3,22.mp3,23.mp3,24.mp3,25.mp3,16.mp3,27.mp3,28.mp3,29.mp3,30.mp3
 #TrackNames: Terciopelo,Nubas altas,Madrigal,Requiem,Pequeña suite parte 1,Pequeña suite parte 2,Marcha,Percepción,Niebla en el Tirol,Función contínua,Señales de alarma,Contrastes e interrogantes
