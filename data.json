@@ -85,8 +85,22 @@
       "releaseDay": "09"
     },
     {
-      "id": "alternativo",
+      "id": "zazpi",
       "albumId": 7,
+      "title": "Zazpi",
+      "color": "",
+      "cover": "https://imanol-llona-music-files.pages.dev/albums/-Disco 7/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "duration": "20 min 58 sec",
+      "releaseYear": "2021",
+      "releaseMonth": "May",
+      "releaseDay": "09"
+    },
+    {
+      "id": "alternativo",
+      "albumId": 8,
       "title": "Alternativo",
       "color": "",
       "cover": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/cover.jpg",
@@ -100,7 +114,7 @@
     },
     {
       "id": "blues",
-      "albumId": 8,
+      "albumId": 9,
       "title": "Blues",
       "color": "",
       "cover": "https://imanol-llona-music-files.pages.dev/albums/Blues/cover.jpg",
@@ -897,6 +911,102 @@
     {
       "id": 66,
       "albumId": 7,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 7/01 - 155.mp3",
+      "title": "01 - 155",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 7/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Zazpi",
+      "duration": "1:37"
+    },
+    {
+      "id": 67,
+      "albumId": 7,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 7/02 - 118.mp3",
+      "title": "02 - 118",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 7/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Zazpi",
+      "duration": "2:03"
+    },
+    {
+      "id": 68,
+      "albumId": 7,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 7/03 - 133.mp3",
+      "title": "03 - 133",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 7/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Zazpi",
+      "duration": "2:01"
+    },
+    {
+      "id": 69,
+      "albumId": 7,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 7/04 - 165.mp3",
+      "title": "04 - 165",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 7/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Zazpi",
+      "duration": "5:41"
+    },
+    {
+      "id": 70,
+      "albumId": 7,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 7/05 - 152.mp3",
+      "title": "05 - 152",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 7/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Zazpi",
+      "duration": "3:06"
+    },
+    {
+      "id": 71,
+      "albumId": 7,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 7/06 - 42.mp3",
+      "title": "06 - 42",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 7/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Zazpi",
+      "duration": "0:17"
+    },
+    {
+      "id": 72,
+      "albumId": 7,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 7/07 - 28.mp3",
+      "title": "07 - 28",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 7/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Zazpi",
+      "duration": "3:22"
+    },
+    {
+      "id": 73,
+      "albumId": 7,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 7/08 - 178.mp3",
+      "title": "08 - 178",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 7/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Zazpi",
+      "duration": "2:48"
+    },
+    {
+      "id": 74,
+      "albumId": 8,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/01.02 - Aita.mp3",
       "title": "01.02 - Aita",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/cover.jpg",
@@ -907,8 +1017,8 @@
       "duration": "2:50"
     },
     {
-      "id": 67,
-      "albumId": 7,
+      "id": 75,
+      "albumId": 8,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/01.03 - Hiru.mp3",
       "title": "01.03 - Hiru",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/cover.jpg",
@@ -919,8 +1029,8 @@
       "duration": "3:37"
     },
     {
-      "id": 68,
-      "albumId": 7,
+      "id": 76,
+      "albumId": 8,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/02.12 - Contrastes e interrogantes.mp3",
       "title": "02.12 - Contrastes e interrogantes",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/cover.jpg",
@@ -931,8 +1041,8 @@
       "duration": "5:09"
     },
     {
-      "id": 69,
-      "albumId": 7,
+      "id": 77,
+      "albumId": 8,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/04.01 - 16.mp3",
       "title": "04.01 - 16",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/cover.jpg",
@@ -943,8 +1053,8 @@
       "duration": "0:44"
     },
     {
-      "id": 70,
-      "albumId": 7,
+      "id": 78,
+      "albumId": 8,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/04.10 - 25.mp3",
       "title": "04.10 - 25",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/cover.jpg",
@@ -955,8 +1065,8 @@
       "duration": "2:05"
     },
     {
-      "id": 71,
-      "albumId": 7,
+      "id": 79,
+      "albumId": 8,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/05.03 - 100.mp3",
       "title": "05.03 - 100",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/cover.jpg",
@@ -967,8 +1077,8 @@
       "duration": "2:08"
     },
     {
-      "id": 72,
-      "albumId": 8,
+      "id": 80,
+      "albumId": 9,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Blues/01 - 15.mp3",
       "title": "01 - 15",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Blues/cover.jpg",
