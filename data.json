@@ -1008,7 +1008,7 @@
       "id": 74,
       "albumId": 8,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/01 - 02 Cuento Épico.mp3",
-      "title": "01 - 02 Cuento Épico",
+      "title": "Cuento Épico",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1020,7 +1020,7 @@
       "id": 75,
       "albumId": 8,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/02 - 03 Azul.mp3",
-      "title": "02 - 03 Azul",
+      "title": "Azul",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1032,7 +1032,7 @@
       "id": 76,
       "albumId": 8,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/03 - 12 - Contrastes e interrogantes.mp3",
-      "title": "03 - 12 - Contrastes e interrogantes",
+      "title": "Contrastes e interrogantes",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1044,7 +1044,7 @@
       "id": 77,
       "albumId": 8,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/04 - 17.mp3",
-      "title": "04 - 17",
+      "title": "17",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1056,7 +1056,7 @@
       "id": 78,
       "albumId": 8,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/05 - 01.mp3",
-      "title": "05 - 01",
+      "title": "01",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1068,7 +1068,7 @@
       "id": 79,
       "albumId": 8,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/06 - 79.mp3",
-      "title": "06 - 79",
+      "title": "79",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1080,7 +1080,7 @@
       "id": 80,
       "albumId": 8,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/07 - 29.mp3",
-      "title": "07 - 29",
+      "title": "29",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1092,7 +1092,7 @@
       "id": 81,
       "albumId": 9,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Blues/01 - 19.mp3",
-      "title": "01 - 19",
+      "title": "19",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Blues/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1104,7 +1104,7 @@
       "id": 82,
       "albumId": 10,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/01 - 02.mp3",
-      "title": "01 - 02",
+      "title": "02",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1116,7 +1116,7 @@
       "id": 83,
       "albumId": 10,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/02 - 10.mp3",
-      "title": "02 - 10",
+      "title": "10",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1128,7 +1128,7 @@
       "id": 84,
       "albumId": 10,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/03 - 13.mp3",
-      "title": "03 - 13",
+      "title": "13",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1140,7 +1140,7 @@
       "id": 85,
       "albumId": 10,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/04 - 15.mp3",
-      "title": "04 - 15",
+      "title": "23",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1152,7 +1152,7 @@
       "id": 86,
       "albumId": 10,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/05 - 23.mp3",
-      "title": "05 - 23",
+      "title": "25",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1164,7 +1164,7 @@
       "id": 87,
       "albumId": 10,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/06 - 25.mp3",
-      "title": "06 - 25",
+      "title": "28",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1176,7 +1176,7 @@
       "id": 88,
       "albumId": 10,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/07 - 28.mp3",
-      "title": "07 - 28",
+      "title": "30",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1188,7 +1188,7 @@
       "id": 89,
       "albumId": 10,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/08 - 30.mp3",
-      "title": "08 - 30",
+      "title": "9",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1200,7 +1200,7 @@
       "id": 90,
       "albumId": 10,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/09 - 9.mp3",
-      "title": "09 - 9",
+      "title": "04",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1212,7 +1212,7 @@
       "id": 91,
       "albumId": 10,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/10 - 04.mp3",
-      "title": "10 - 04",
+      "title": "30",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1224,7 +1224,7 @@
       "id": 92,
       "albumId": 10,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/11 - 30.mp3",
-      "title": "11 - 30",
+      "title": "28",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1236,7 +1236,7 @@
       "id": 93,
       "albumId": 10,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/12 - 28.mp3",
-      "title": "12 - 28",
+      "title": "23",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/cover.jpg",
       "artists": [
         "Imanol Llona"
