@@ -1,0 +1,4 @@
+Albumtitle: Romántico
+Albumcover:
+ReleaseDate: 
+TrackNames: 

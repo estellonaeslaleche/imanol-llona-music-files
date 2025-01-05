@@ -1,0 +1,4 @@
+Albumtitle: Neo Noir
+Albumcover:
+ReleaseDate: 
+TrackNames: 

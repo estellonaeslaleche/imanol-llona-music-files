@@ -1,0 +1,4 @@
+Albumtitle: Pop
+Albumcover:
+ReleaseDate: 
+TrackNames: 

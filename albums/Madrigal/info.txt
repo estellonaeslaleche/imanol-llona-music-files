@@ -1,0 +1,4 @@
+Albumtitle: Madrigal
+Albumcover:
+ReleaseDate: 
+TrackNames: 

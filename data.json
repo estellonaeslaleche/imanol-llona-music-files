@@ -179,6 +179,126 @@
       ],
       "duration": "5 min 9 sec",
       "releaseYear": ""
+    },
+    {
+      "id": "madrigal",
+      "albumId": 16,
+      "title": "Madrigal",
+      "color": "",
+      "cover": "https://imanol-llona-music-files.pages.dev/albums/Madrigal/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "duration": "0 min 0 sec",
+      "releaseYear": ""
+    },
+    {
+      "id": "neo-noir",
+      "albumId": 17,
+      "title": "Neo Noir",
+      "color": "",
+      "cover": "https://imanol-llona-music-files.pages.dev/albums/Neo Noir/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "duration": "0 min 0 sec",
+      "releaseYear": ""
+    },
+    {
+      "id": "new-age",
+      "albumId": 18,
+      "title": "New Age",
+      "color": "",
+      "cover": "https://imanol-llona-music-files.pages.dev/albums/New Age/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "duration": "0 min 0 sec",
+      "releaseYear": ""
+    },
+    {
+      "id": "orquestal",
+      "albumId": 19,
+      "title": "Orquestal",
+      "color": "",
+      "cover": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "duration": "0 min 0 sec",
+      "releaseYear": ""
+    },
+    {
+      "id": "pop",
+      "albumId": 20,
+      "title": "Pop",
+      "color": "",
+      "cover": "https://imanol-llona-music-files.pages.dev/albums/Pop/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "duration": "0 min 0 sec",
+      "releaseYear": ""
+    },
+    {
+      "id": "progresivo",
+      "albumId": 21,
+      "title": "Progresivo",
+      "color": "",
+      "cover": "https://imanol-llona-music-files.pages.dev/albums/Progresivo/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "duration": "0 min 0 sec",
+      "releaseYear": ""
+    },
+    {
+      "id": "psicodelia",
+      "albumId": 22,
+      "title": "Psicodelia",
+      "color": "",
+      "cover": "https://imanol-llona-music-files.pages.dev/albums/Psicodelia/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "duration": "0 min 0 sec",
+      "releaseYear": ""
+    },
+    {
+      "id": "rock",
+      "albumId": 23,
+      "title": "Rock",
+      "color": "",
+      "cover": "https://imanol-llona-music-files.pages.dev/albums/Rock/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "duration": "0 min 0 sec",
+      "releaseYear": ""
+    },
+    {
+      "id": "romantico",
+      "albumId": 24,
+      "title": "Romántico",
+      "color": "",
+      "cover": "https://imanol-llona-music-files.pages.dev/albums/Romántico/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "duration": "0 min 0 sec",
+      "releaseYear": ""
+    },
+    {
+      "id": "soul",
+      "albumId": 25,
+      "title": "Soul",
+      "color": "",
+      "cover": "https://imanol-llona-music-files.pages.dev/albums/Soul/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "duration": "0 min 0 sec",
+      "releaseYear": ""
     }
   ],
   "songs": [

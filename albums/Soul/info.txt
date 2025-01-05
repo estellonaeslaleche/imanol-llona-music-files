@@ -1,0 +1,4 @@
+Albumtitle: Soul
+Albumcover:
+ReleaseDate: 
+TrackNames: 

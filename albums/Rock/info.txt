@@ -1,0 +1,4 @@
+Albumtitle: Rock
+Albumcover:
+ReleaseDate: 
+TrackNames: 

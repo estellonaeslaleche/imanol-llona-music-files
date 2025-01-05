@@ -1,0 +1,4 @@
+Albumtitle: Psicodelia
+Albumcover:
+ReleaseDate: 
+TrackNames: 
