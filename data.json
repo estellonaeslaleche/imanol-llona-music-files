@@ -133,9 +133,9 @@
       "releaseYear": ""
     },
     {
-      "id": "experimental",
+      "id": "flamenco",
       "albumId": 12,
-      "title": "Experimental",
+      "title": "Flamenco",
       "color": "",
       "cover": "https://imanol-llona-music-files.pages.dev/albums/Flamenco/cover.jpg",
       "artists": [
@@ -145,15 +145,27 @@
       "releaseYear": ""
     },
     {
-      "id": "experimental",
+      "id": "folk",
       "albumId": 13,
-      "title": "Experimental",
+      "title": "Folk",
       "color": "",
       "cover": "https://imanol-llona-music-files.pages.dev/albums/Folk/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
       "duration": "8 min 20 sec",
+      "releaseYear": ""
+    },
+    {
+      "id": "house",
+      "albumId": 14,
+      "title": "House",
+      "color": "",
+      "cover": "https://imanol-llona-music-files.pages.dev/albums/House/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "duration": "10 min 44 sec",
       "releaseYear": ""
     }
   ],
@@ -1361,8 +1373,8 @@
     {
       "id": 101,
       "albumId": 11,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Experimental/08 - Alvaro - Cancion - Corporativa - 5.mp3",
-      "title": "Alvaro - Cancion - Corporativa - 5",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Experimental/08 - Cancion Corporativa 5.mp3",
+      "title": "Cancion Corporativa 5",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Experimental/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1463,7 +1475,7 @@
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Experimental",
+      "album": "Flamenco",
       "duration": "15:34"
     },
     {
@@ -1475,7 +1487,7 @@
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Experimental",
+      "album": "Flamenco",
       "duration": "2:02"
     },
     {
@@ -1487,7 +1499,7 @@
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Experimental",
+      "album": "Folk",
       "duration": "4:43"
     },
     {
@@ -1499,7 +1511,7 @@
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Experimental",
+      "album": "Folk",
       "duration": "1:37"
     },
     {
@@ -1511,8 +1523,32 @@
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Experimental",
+      "album": "Folk",
       "duration": "1:59"
+    },
+    {
+      "id": 114,
+      "albumId": 14,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/House/01 - Función Continua.mp3",
+      "title": "Función Continua",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/House/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "House",
+      "duration": "3:45"
+    },
+    {
+      "id": 115,
+      "albumId": 14,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/House/02 - Cancion Corporativa 5.mp3",
+      "title": "Cancion Corporativa 5",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/House/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "House",
+      "duration": "6:59"
     }
   ]
 }

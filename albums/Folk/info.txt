@@ -1,4 +1,4 @@
-Albumtitle: Experimental
+Albumtitle: Folk
 Albumcover:
 ReleaseDate: 
 TrackNames: Madrigal,Requiem,9
