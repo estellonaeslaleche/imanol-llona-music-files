@@ -119,6 +119,42 @@
       ],
       "duration": "29 min 51 sec",
       "releaseYear": ""
+    },
+    {
+      "id": "experimental",
+      "albumId": 11,
+      "title": "Experimental",
+      "color": "",
+      "cover": "https://imanol-llona-music-files.pages.dev/albums/Experimental/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "duration": "41 min 3 sec",
+      "releaseYear": ""
+    },
+    {
+      "id": "experimental",
+      "albumId": 12,
+      "title": "Experimental",
+      "color": "",
+      "cover": "https://imanol-llona-music-files.pages.dev/albums/Flamenco/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "duration": "17 min 37 sec",
+      "releaseYear": ""
+    },
+    {
+      "id": "experimental",
+      "albumId": 13,
+      "title": "Experimental",
+      "color": "",
+      "cover": "https://imanol-llona-music-files.pages.dev/albums/Folk/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "duration": "8 min 20 sec",
+      "releaseYear": ""
     }
   ],
   "songs": [
@@ -1237,6 +1273,246 @@
       ],
       "album": "Electrónico",
       "duration": "2:41"
+    },
+    {
+      "id": 94,
+      "albumId": 11,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Experimental/01 - 02.mp3",
+      "title": "02",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Experimental/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Experimental",
+      "duration": "2:04"
+    },
+    {
+      "id": 95,
+      "albumId": 11,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Experimental/02 - 10.mp3",
+      "title": "10",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Experimental/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Experimental",
+      "duration": "1:52"
+    },
+    {
+      "id": 96,
+      "albumId": 11,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Experimental/03 - 15.mp3",
+      "title": "15",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Experimental/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Experimental",
+      "duration": "2:13"
+    },
+    {
+      "id": 97,
+      "albumId": 11,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Experimental/04 - 23.mp3",
+      "title": "23",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Experimental/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Experimental",
+      "duration": "2:41"
+    },
+    {
+      "id": 98,
+      "albumId": 11,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Experimental/05 - 25.mp3",
+      "title": "25",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Experimental/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Experimental",
+      "duration": "2:05"
+    },
+    {
+      "id": 99,
+      "albumId": 11,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Experimental/06 - 28.mp3",
+      "title": "28",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Experimental/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Experimental",
+      "duration": "2:53"
+    },
+    {
+      "id": 100,
+      "albumId": 11,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Experimental/07 - 30.mp3",
+      "title": "30",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Experimental/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Experimental",
+      "duration": "2:44"
+    },
+    {
+      "id": 101,
+      "albumId": 11,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Experimental/08 - Alvaro - Cancion - Corporativa - 5.mp3",
+      "title": "Alvaro - Cancion - Corporativa - 5",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Experimental/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Experimental",
+      "duration": "6:59"
+    },
+    {
+      "id": 102,
+      "albumId": 11,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Experimental/09 - 138.mp3",
+      "title": "138",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Experimental/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Experimental",
+      "duration": "1:26"
+    },
+    {
+      "id": 103,
+      "albumId": 11,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Experimental/10 - 114.mp3",
+      "title": "114",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Experimental/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Experimental",
+      "duration": "3:07"
+    },
+    {
+      "id": 104,
+      "albumId": 11,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Experimental/11 - Andrew 1.mp3",
+      "title": "Andrew 1",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Experimental/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Experimental",
+      "duration": "2:08"
+    },
+    {
+      "id": 105,
+      "albumId": 11,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Experimental/12 - 79.mp3",
+      "title": "79",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Experimental/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Experimental",
+      "duration": "2:13"
+    },
+    {
+      "id": 106,
+      "albumId": 11,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Experimental/13 - 29.mp3",
+      "title": "29",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Experimental/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Experimental",
+      "duration": "1:55"
+    },
+    {
+      "id": 107,
+      "albumId": 11,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Experimental/14 - 28.mp3",
+      "title": "28",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Experimental/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Experimental",
+      "duration": "2:53"
+    },
+    {
+      "id": 108,
+      "albumId": 11,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Experimental/15 - 23.mp3",
+      "title": "23",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Experimental/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Experimental",
+      "duration": "3:45"
+    },
+    {
+      "id": 109,
+      "albumId": 12,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Flamenco/01 - Suite.mp3",
+      "title": "Suite",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Flamenco/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Experimental",
+      "duration": "15:34"
+    },
+    {
+      "id": 110,
+      "albumId": 12,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Flamenco/02 - 11.mp3",
+      "title": "11",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Flamenco/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Experimental",
+      "duration": "2:02"
+    },
+    {
+      "id": 111,
+      "albumId": 13,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Folk/01 - Madrigal.mp3",
+      "title": "Madrigal",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Folk/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Experimental",
+      "duration": "4:43"
+    },
+    {
+      "id": 112,
+      "albumId": 13,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Folk/02 - Requiem.mp3",
+      "title": "Requiem",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Folk/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Experimental",
+      "duration": "1:37"
+    },
+    {
+      "id": 113,
+      "albumId": 13,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Folk/03 - 9.mp3",
+      "title": "9",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Folk/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Experimental",
+      "duration": "1:59"
     }
   ]
 }
