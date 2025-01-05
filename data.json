@@ -167,6 +167,18 @@
       ],
       "duration": "10 min 44 sec",
       "releaseYear": ""
+    },
+    {
+      "id": "jazz",
+      "albumId": 15,
+      "title": "Jazz",
+      "color": "",
+      "cover": "https://imanol-llona-music-files.pages.dev/albums/Jazz/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "duration": "5 min 9 sec",
+      "releaseYear": ""
     }
   ],
   "songs": [
@@ -1549,6 +1561,18 @@
       ],
       "album": "House",
       "duration": "6:59"
+    },
+    {
+      "id": 116,
+      "albumId": 15,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Jazz/01 - Contrastes e Interrogantes.mp3",
+      "title": "Contrastes e Interrogantes",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Jazz/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Jazz",
+      "duration": "5:09"
     }
   ]
 }
