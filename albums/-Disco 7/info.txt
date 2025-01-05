@@ -1,4 +1,4 @@
 Albumtitle: Zazpi
 Albumcover:
-ReleaseDate: 2021-May-09
+ReleaseDate: 2023
 TrackNames: 155,118,133,165,152,42,28,178
