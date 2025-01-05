@@ -1,0 +1,4 @@
+Albumtitle: Jazz
+Albumcover:
+ReleaseDate: 
+TrackNames: Contrastes e Interrogantes
