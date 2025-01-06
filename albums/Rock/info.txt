@@ -2,3 +2,4 @@ Albumtitle: Rock
 Albumcover:
 ReleaseDate: 
 TrackNames: 
+Type: Estilo musical

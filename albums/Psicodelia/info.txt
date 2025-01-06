@@ -2,3 +2,4 @@ Albumtitle: Psicodelia
 Albumcover:
 ReleaseDate: 
 TrackNames: 
+Type: Estilo musical

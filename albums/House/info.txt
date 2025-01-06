@@ -2,3 +2,4 @@ Albumtitle: House
 Albumcover:
 ReleaseDate: 
 TrackNames: Función Continua,CC
+Type: Estilo musical

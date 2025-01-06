@@ -2,3 +2,4 @@ Albumtitle: Bi
 Albumcover:
 ReleaseDate: 2016
 TrackNames: Terciopelo,Nubas altas,Madrigal,Requiem,Pequeña suite parte 1,Pequeña suite parte 2,Marcha,Percepción,Niebla en el Tirol,Función contínua,Señales de alarma,Contrastes e interrogantes
+Type: Album

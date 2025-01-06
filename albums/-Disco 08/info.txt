@@ -2,3 +2,4 @@ Albumtitle: Zortzi
 Albumcover:
 ReleaseDate: 2023
 TrackNames: 
+Type: Album

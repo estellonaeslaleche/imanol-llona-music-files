@@ -2,3 +2,4 @@ Albumtitle: Pop
 Albumcover:
 ReleaseDate: 
 TrackNames: 
+Type: Estilo musical

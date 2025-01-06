@@ -2,3 +2,4 @@ Albumtitle: New Age
 Albumcover:
 ReleaseDate: 
 TrackNames: 
+Type: Estilo musical

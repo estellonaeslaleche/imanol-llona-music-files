@@ -10,7 +10,8 @@
         "Imanol Llona"
       ],
       "duration": "29 min 49 sec",
-      "releaseYear": "2016"
+      "releaseYear": "2016",
+      "type": "Album"
     },
     {
       "id": "bi",
@@ -22,7 +23,8 @@
         "Imanol Llona"
       ],
       "duration": "30 min 16 sec",
-      "releaseYear": "2016"
+      "releaseYear": "2016",
+      "type": "Album"
     },
     {
       "id": "hiru",
@@ -34,7 +36,8 @@
         "Imanol Llona"
       ],
       "duration": "23 min 49 sec",
-      "releaseYear": "2020"
+      "releaseYear": "2020",
+      "type": "Album"
     },
     {
       "id": "lau",
@@ -46,7 +49,8 @@
         "Imanol Llona"
       ],
       "duration": "23 min 52 sec",
-      "releaseYear": "2020"
+      "releaseYear": "2020",
+      "type": "Album"
     },
     {
       "id": "bost",
@@ -58,7 +62,8 @@
         "Imanol Llona"
       ],
       "duration": "23 min 40 sec",
-      "releaseYear": "2022"
+      "releaseYear": "2022",
+      "type": "Album"
     },
     {
       "id": "sei",
@@ -70,7 +75,8 @@
         "Imanol Llona"
       ],
       "duration": "28 min 42 sec",
-      "releaseYear": "2023"
+      "releaseYear": "2023",
+      "type": "Album"
     },
     {
       "id": "zazpi",
@@ -82,7 +88,8 @@
         "Imanol Llona"
       ],
       "duration": "22 min 57 sec",
-      "releaseYear": "2023"
+      "releaseYear": "2023",
+      "type": "Album"
     },
     {
       "id": "zortzi",
@@ -94,7 +101,8 @@
         "Imanol Llona"
       ],
       "duration": "0 min 0 sec",
-      "releaseYear": "2023"
+      "releaseYear": "2023",
+      "type": "Album"
     },
     {
       "id": "bederatzi",
@@ -106,7 +114,8 @@
         "Imanol Llona"
       ],
       "duration": "0 min 0 sec",
-      "releaseYear": "2023"
+      "releaseYear": "2023",
+      "type": "Album"
     },
     {
       "id": "hamar",
@@ -118,7 +127,8 @@
         "Imanol Llona"
       ],
       "duration": "0 min 0 sec",
-      "releaseYear": "2023"
+      "releaseYear": "2023",
+      "type": "Album"
     },
     {
       "id": "hits",
@@ -130,7 +140,8 @@
         "Imanol Llona"
       ],
       "duration": "33 min 9 sec",
-      "releaseYear": "2024"
+      "releaseYear": "2024",
+      "type": "Album"
     },
     {
       "id": "alternativo",
@@ -142,7 +153,8 @@
         "Imanol Llona"
       ],
       "duration": "24 min 47 sec",
-      "releaseYear": ""
+      "releaseYear": "",
+      "type": "Estilo musical"
     },
     {
       "id": "blues",
@@ -154,7 +166,8 @@
         "Imanol Llona"
       ],
       "duration": "1 min 41 sec",
-      "releaseYear": ""
+      "releaseYear": "",
+      "type": "Estilo musical"
     },
     {
       "id": "electronico",
@@ -166,7 +179,8 @@
         "Imanol Llona"
       ],
       "duration": "29 min 51 sec",
-      "releaseYear": ""
+      "releaseYear": "",
+      "type": "Estilo musical"
     },
     {
       "id": "experimental",
@@ -178,7 +192,8 @@
         "Imanol Llona"
       ],
       "duration": "43 min 2 sec",
-      "releaseYear": ""
+      "releaseYear": "",
+      "type": "Estilo musical"
     },
     {
       "id": "flamenco",
@@ -190,7 +205,8 @@
         "Imanol Llona"
       ],
       "duration": "2 min 2 sec",
-      "releaseYear": ""
+      "releaseYear": "",
+      "type": "Estilo musical"
     },
     {
       "id": "folk",
@@ -202,7 +218,8 @@
         "Imanol Llona"
       ],
       "duration": "7 min 51 sec",
-      "releaseYear": ""
+      "releaseYear": "",
+      "type": "Estilo musical"
     },
     {
       "id": "house",
@@ -214,7 +231,8 @@
         "Imanol Llona"
       ],
       "duration": "10 min 44 sec",
-      "releaseYear": ""
+      "releaseYear": "",
+      "type": "Estilo musical"
     },
     {
       "id": "jazz",
@@ -226,7 +244,8 @@
         "Imanol Llona"
       ],
       "duration": "5 min 9 sec",
-      "releaseYear": ""
+      "releaseYear": "",
+      "type": "Estilo musical"
     },
     {
       "id": "madrigal",
@@ -238,7 +257,8 @@
         "Imanol Llona"
       ],
       "duration": "0 min 0 sec",
-      "releaseYear": ""
+      "releaseYear": "",
+      "type": "Estilo musical"
     },
     {
       "id": "neo-noir",
@@ -250,7 +270,8 @@
         "Imanol Llona"
       ],
       "duration": "0 min 0 sec",
-      "releaseYear": ""
+      "releaseYear": "",
+      "type": "Estilo musical"
     },
     {
       "id": "new-age",
@@ -262,7 +283,8 @@
         "Imanol Llona"
       ],
       "duration": "0 min 0 sec",
-      "releaseYear": ""
+      "releaseYear": "",
+      "type": "Estilo musical"
     },
     {
       "id": "orquestal",
@@ -274,7 +296,8 @@
         "Imanol Llona"
       ],
       "duration": "0 min 0 sec",
-      "releaseYear": ""
+      "releaseYear": "",
+      "type": "Estilo musical"
     },
     {
       "id": "pop",
@@ -286,7 +309,8 @@
         "Imanol Llona"
       ],
       "duration": "0 min 0 sec",
-      "releaseYear": ""
+      "releaseYear": "",
+      "type": "Estilo musical"
     },
     {
       "id": "progresivo",
@@ -298,7 +322,8 @@
         "Imanol Llona"
       ],
       "duration": "0 min 0 sec",
-      "releaseYear": ""
+      "releaseYear": "",
+      "type": "Estilo musical"
     },
     {
       "id": "psicodelia",
@@ -310,7 +335,8 @@
         "Imanol Llona"
       ],
       "duration": "0 min 0 sec",
-      "releaseYear": ""
+      "releaseYear": "",
+      "type": "Estilo musical"
     },
     {
       "id": "rock",
@@ -322,7 +348,8 @@
         "Imanol Llona"
       ],
       "duration": "0 min 0 sec",
-      "releaseYear": ""
+      "releaseYear": "",
+      "type": "Estilo musical"
     },
     {
       "id": "romantico",
@@ -334,7 +361,8 @@
         "Imanol Llona"
       ],
       "duration": "0 min 0 sec",
-      "releaseYear": ""
+      "releaseYear": "",
+      "type": "Estilo musical"
     },
     {
       "id": "soul",
@@ -346,7 +374,8 @@
         "Imanol Llona"
       ],
       "duration": "0 min 0 sec",
-      "releaseYear": ""
+      "releaseYear": "",
+      "type": "Estilo musical"
     }
   ],
   "songs": [

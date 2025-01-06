@@ -52,7 +52,8 @@ async function generateData() {
       duration: '',
       releaseYear: '',
       releaseMonth: '',
-      releaseDay: ''
+      releaseDay: '',
+      type: ''
     };
 
     let trackNames = [];
@@ -68,6 +69,8 @@ async function generateData() {
           albumData.id = createSlug(albumData.title)
         } else if (line.startsWith('Albumcover:')) {
           albumData.cover = line.replace('Albumcover:', '').trim();
+        } else if (line.startsWith('Type:')) {
+          albumData.type = line.replace('Type:', '').trim();
         } else if (line.startsWith('ReleaseDate:')) {
           const [year, month, day] = line.replace('ReleaseDate:', '').trim().split('-');
           albumData.releaseYear = year;

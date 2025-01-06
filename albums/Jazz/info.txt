@@ -2,3 +2,4 @@ Albumtitle: Jazz
 Albumcover:
 ReleaseDate: 
 TrackNames: Contrastes e Interrogantes
+Type: Estilo musical

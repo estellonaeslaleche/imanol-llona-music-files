@@ -2,3 +2,4 @@ Albumtitle: Experimental
 Albumcover:
 ReleaseDate: 
 TrackNames: 02,10,15,23,25,28,30,CC,138,114,A,79,29,28,23,9
+Type: Estilo musical

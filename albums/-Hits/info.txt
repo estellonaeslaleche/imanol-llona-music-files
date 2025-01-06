@@ -2,3 +2,4 @@ Albumtitle: Hits
 Albumcover:
 ReleaseDate: 2024
 TrackNames: Sena,Nubes altas,01,04,14,16,01,79,11,23,155,165
+Type: Album

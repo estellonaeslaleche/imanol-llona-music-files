@@ -2,3 +2,4 @@ Albumtitle: Soul
 Albumcover:
 ReleaseDate: 
 TrackNames: 
+Type: Estilo musical

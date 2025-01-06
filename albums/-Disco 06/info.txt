@@ -2,3 +2,4 @@ Albumtitle: Sei
 Albumcover:
 ReleaseDate: 2023
 TrackNames: 79,04,18,29,01,30,11,09,01,28,23,02,23
+Type: Album

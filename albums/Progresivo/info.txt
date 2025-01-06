@@ -2,3 +2,4 @@ Albumtitle: Progresivo
 Albumcover:
 ReleaseDate: 
 TrackNames: 
+Type: Estilo musical
