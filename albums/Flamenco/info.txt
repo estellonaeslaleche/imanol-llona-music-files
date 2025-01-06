@@ -1,4 +1,4 @@
 Albumtitle: Flamenco
 Albumcover:
 ReleaseDate: 
-TrackNames: Suite,11
+TrackNames: 11

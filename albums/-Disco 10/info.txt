@@ -1,0 +1,4 @@
+Albumtitle: Hamar
+Albumcover:
+ReleaseDate: 2023
+TrackNames: 
