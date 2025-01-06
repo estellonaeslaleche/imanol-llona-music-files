@@ -1,5 +1,5 @@
 Albumtitle: New Age
 Albumcover:
 ReleaseDate: 
-TrackNames: 
+TrackNames: Cuento Épico,Azul,Suite,Nubes altas,Marcha,151
 Type: Estilo musical

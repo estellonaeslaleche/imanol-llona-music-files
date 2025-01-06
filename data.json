@@ -256,7 +256,7 @@
       "artists": [
         "Imanol Llona"
       ],
-      "duration": "0 min 0 sec",
+      "duration": "5 min 42 sec",
       "releaseYear": "",
       "type": "Estilo musical"
     },
@@ -269,7 +269,7 @@
       "artists": [
         "Imanol Llona"
       ],
-      "duration": "0 min 0 sec",
+      "duration": "9 min 59 sec",
       "releaseYear": "",
       "type": "Estilo musical"
     },
@@ -282,7 +282,7 @@
       "artists": [
         "Imanol Llona"
       ],
-      "duration": "0 min 0 sec",
+      "duration": "27 min 26 sec",
       "releaseYear": "",
       "type": "Estilo musical"
     },
@@ -295,7 +295,7 @@
       "artists": [
         "Imanol Llona"
       ],
-      "duration": "0 min 0 sec",
+      "duration": "17 min 14 sec",
       "releaseYear": "",
       "type": "Estilo musical"
     },
@@ -308,7 +308,7 @@
       "artists": [
         "Imanol Llona"
       ],
-      "duration": "0 min 0 sec",
+      "duration": "6 min 17 sec",
       "releaseYear": "",
       "type": "Estilo musical"
     },
@@ -1914,6 +1914,330 @@
       ],
       "album": "Jazz",
       "duration": "5:09"
+    },
+    {
+      "id": 129,
+      "albumId": 20,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Madrigal/01 - Nubes Altas.mp3",
+      "title": "Nubes Altas",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Madrigal/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Madrigal",
+      "duration": "2:59"
+    },
+    {
+      "id": 130,
+      "albumId": 20,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Madrigal/02 - Niebla En El Tirol.mp3",
+      "title": "Niebla en el Tirol",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Madrigal/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Madrigal",
+      "duration": "2:43"
+    },
+    {
+      "id": 131,
+      "albumId": 21,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Neo Noir/01 - 02.mp3",
+      "title": "02",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Neo Noir/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Neo Noir",
+      "duration": "2:04"
+    },
+    {
+      "id": 132,
+      "albumId": 21,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Neo Noir/02 - 28.mp3",
+      "title": "28",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Neo Noir/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Neo Noir",
+      "duration": "2:53"
+    },
+    {
+      "id": 133,
+      "albumId": 21,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Neo Noir/03 - 28.mp3",
+      "title": "28 (2)",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Neo Noir/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Neo Noir",
+      "duration": "2:53"
+    },
+    {
+      "id": 134,
+      "albumId": 21,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Neo Noir/04 - A.mp3",
+      "title": "A",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Neo Noir/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Neo Noir",
+      "duration": "2:08"
+    },
+    {
+      "id": 135,
+      "albumId": 22,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/New Age/01 - Cuento Épico.mp3",
+      "title": "Cuento Épico",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/New Age/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "New Age",
+      "duration": "2:50"
+    },
+    {
+      "id": 136,
+      "albumId": 22,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/New Age/02 - Azul.mp3",
+      "title": "Azul",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/New Age/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "New Age",
+      "duration": "3:37"
+    },
+    {
+      "id": 137,
+      "albumId": 22,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/New Age/03 - Suite.mp3",
+      "title": "Suite",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/New Age/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "New Age",
+      "duration": "15:34"
+    },
+    {
+      "id": 138,
+      "albumId": 22,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/New Age/04 - Nubes altas.mp3",
+      "title": "Nubes altas",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/New Age/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "New Age",
+      "duration": "2:55"
+    },
+    {
+      "id": 139,
+      "albumId": 22,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/New Age/05 - Marcha.mp3",
+      "title": "Marcha",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/New Age/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "New Age",
+      "duration": "0:49"
+    },
+    {
+      "id": 140,
+      "albumId": 22,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/New Age/06 - 151.mp3",
+      "title": "151",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/New Age/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "New Age",
+      "duration": "1:39"
+    },
+    {
+      "id": 141,
+      "albumId": 23,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/01 - Pequeña Suite Parte 2.mp3",
+      "title": "Pequeña Suite Parte 2",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Orquestal",
+      "duration": "0:57"
+    },
+    {
+      "id": 142,
+      "albumId": 23,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/02 - Señales de Alarma.mp3",
+      "title": "Señales de Alarma",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Orquestal",
+      "duration": "2:46"
+    },
+    {
+      "id": 143,
+      "albumId": 23,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/03 - 01.mp3",
+      "title": "01",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Orquestal",
+      "duration": "0:50"
+    },
+    {
+      "id": 144,
+      "albumId": 23,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/04 - 07.mp3",
+      "title": "07",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Orquestal",
+      "duration": "1:39"
+    },
+    {
+      "id": 145,
+      "albumId": 23,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/05 - 08.mp3",
+      "title": "08",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Orquestal",
+      "duration": "1:41"
+    },
+    {
+      "id": 146,
+      "albumId": 23,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/06 - 12.mp3",
+      "title": "12",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Orquestal",
+      "duration": "1:26"
+    },
+    {
+      "id": 147,
+      "albumId": 23,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/07 - 16.mp3",
+      "title": "16",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Orquestal",
+      "duration": "0:44"
+    },
+    {
+      "id": 148,
+      "albumId": 23,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/08 - 20.mp3",
+      "title": "20",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Orquestal",
+      "duration": "1:41"
+    },
+    {
+      "id": 149,
+      "albumId": 23,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/09 - 26.mp3",
+      "title": "26",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Orquestal",
+      "duration": "2:31"
+    },
+    {
+      "id": 150,
+      "albumId": 23,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/10 - 133.mp3",
+      "title": "133",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Orquestal",
+      "duration": "2:04"
+    },
+    {
+      "id": 151,
+      "albumId": 23,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/11 - 01.mp3",
+      "title": "01",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Orquestal",
+      "duration": "0:50"
+    },
+    {
+      "id": 152,
+      "albumId": 24,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Pop/01 - 01.mp3",
+      "title": "01",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Pop/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Pop",
+      "duration": "1:37"
+    },
+    {
+      "id": 153,
+      "albumId": 24,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Pop/02 - 11.mp3",
+      "title": "11",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Pop/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Pop",
+      "duration": "1:30"
+    },
+    {
+      "id": 154,
+      "albumId": 24,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Pop/03 - 02.mp3",
+      "title": "02",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Pop/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Pop",
+      "duration": "1:06"
+    },
+    {
+      "id": 155,
+      "albumId": 24,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Pop/04 - 118.mp3",
+      "title": "118",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Pop/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Pop",
+      "duration": "2:03"
     }
   ]
 }
