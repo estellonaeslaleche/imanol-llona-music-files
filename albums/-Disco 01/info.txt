@@ -1,5 +1,5 @@
 Albumtitle: Bat
 Albumcover:
 ReleaseDate: 2016
-TrackNames: Sena,Cuento Épico,Azul,Escalera de caracol,Suite,Epílogo
+TrackNames: Suite,Cuento Épico,Azul,Escalera de caracol,Suite,Epílogo
 Type: Album

@@ -376,6 +376,19 @@
       "duration": "0 min 0 sec",
       "releaseYear": "",
       "type": "Estilo musical"
+    },
+    {
+      "id": "canciones",
+      "albumId": 30,
+      "title": "Canciones",
+      "color": "",
+      "cover": "https://imanol-llona-music-files.pages.dev/albums/Z-Canciones/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "duration": "0 min 0 sec",
+      "releaseYear": "2024",
+      "type": "Canciones"
     }
   ],
   "songs": [
@@ -383,7 +396,7 @@
       "id": 1,
       "albumId": 1,
       "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 01/01 Sena.mp3",
-      "title": "Sena",
+      "title": "Suite",
       "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 01/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1199,7 +1212,7 @@
       "id": 69,
       "albumId": 11,
       "url": "https://imanol-llona-music-files.pages.dev/albums/-Hits/01 Sena.mp3",
-      "title": "Bat - Sena",
+      "title": "Bat - Suite",
       "image": "https://imanol-llona-music-files.pages.dev/albums/-Hits/cover.jpg",
       "artists": [
         "Imanol Llona"
