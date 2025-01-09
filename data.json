@@ -157,8 +157,21 @@
       "type": "Estilo musical"
     },
     {
-      "id": "blues",
+      "id": "ambient",
       "albumId": 13,
+      "title": "Ambient",
+      "color": "",
+      "cover": "https://imanol-llona-music-files.pages.dev/albums/Ambient/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "duration": "6 min 36 sec",
+      "releaseYear": "",
+      "type": "Estilo musical"
+    },
+    {
+      "id": "blues",
+      "albumId": 14,
       "title": "Blues",
       "color": "",
       "cover": "https://imanol-llona-music-files.pages.dev/albums/Blues/cover.jpg",
@@ -171,7 +184,7 @@
     },
     {
       "id": "electronico",
-      "albumId": 14,
+      "albumId": 15,
       "title": "Electrónico",
       "color": "",
       "cover": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/cover.jpg",
@@ -184,7 +197,7 @@
     },
     {
       "id": "experimental",
-      "albumId": 15,
+      "albumId": 16,
       "title": "Experimental",
       "color": "",
       "cover": "https://imanol-llona-music-files.pages.dev/albums/Experimental/cover.jpg",
@@ -197,7 +210,7 @@
     },
     {
       "id": "flamenco",
-      "albumId": 16,
+      "albumId": 17,
       "title": "Flamenco",
       "color": "",
       "cover": "https://imanol-llona-music-files.pages.dev/albums/Flamenco/cover.jpg",
@@ -210,7 +223,7 @@
     },
     {
       "id": "folk",
-      "albumId": 17,
+      "albumId": 18,
       "title": "Folk",
       "color": "",
       "cover": "https://imanol-llona-music-files.pages.dev/albums/Folk/cover.jpg",
@@ -223,7 +236,7 @@
     },
     {
       "id": "house",
-      "albumId": 18,
+      "albumId": 19,
       "title": "House",
       "color": "",
       "cover": "https://imanol-llona-music-files.pages.dev/albums/House/cover.jpg",
@@ -236,7 +249,7 @@
     },
     {
       "id": "jazz",
-      "albumId": 19,
+      "albumId": 20,
       "title": "Jazz",
       "color": "",
       "cover": "https://imanol-llona-music-files.pages.dev/albums/Jazz/cover.jpg",
@@ -249,7 +262,7 @@
     },
     {
       "id": "madrigal",
-      "albumId": 20,
+      "albumId": 21,
       "title": "Madrigal",
       "color": "",
       "cover": "https://imanol-llona-music-files.pages.dev/albums/Madrigal/cover.jpg",
@@ -262,7 +275,7 @@
     },
     {
       "id": "neo-noir",
-      "albumId": 21,
+      "albumId": 22,
       "title": "Neo Noir",
       "color": "",
       "cover": "https://imanol-llona-music-files.pages.dev/albums/Neo Noir/cover.jpg",
@@ -275,20 +288,20 @@
     },
     {
       "id": "new-age",
-      "albumId": 22,
+      "albumId": 23,
       "title": "New Age",
       "color": "",
       "cover": "https://imanol-llona-music-files.pages.dev/albums/New Age/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "duration": "50 min 11 sec",
+      "duration": "48 min 32 sec",
       "releaseYear": "",
       "type": "Estilo musical"
     },
     {
       "id": "orquestal",
-      "albumId": 23,
+      "albumId": 24,
       "title": "Orquestal",
       "color": "",
       "cover": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/cover.jpg",
@@ -301,7 +314,7 @@
     },
     {
       "id": "pop",
-      "albumId": 24,
+      "albumId": 25,
       "title": "Pop",
       "color": "",
       "cover": "https://imanol-llona-music-files.pages.dev/albums/Pop/cover.jpg",
@@ -314,7 +327,7 @@
     },
     {
       "id": "progresivo",
-      "albumId": 25,
+      "albumId": 26,
       "title": "Progresivo",
       "color": "",
       "cover": "https://imanol-llona-music-files.pages.dev/albums/Progresivo/cover.jpg",
@@ -327,7 +340,7 @@
     },
     {
       "id": "psicodelia",
-      "albumId": 26,
+      "albumId": 27,
       "title": "Psicodelia",
       "color": "",
       "cover": "https://imanol-llona-music-files.pages.dev/albums/Psicodelia/cover.jpg",
@@ -340,7 +353,7 @@
     },
     {
       "id": "rock",
-      "albumId": 27,
+      "albumId": 28,
       "title": "Rock",
       "color": "",
       "cover": "https://imanol-llona-music-files.pages.dev/albums/Rock/cover.jpg",
@@ -353,7 +366,7 @@
     },
     {
       "id": "romantico",
-      "albumId": 28,
+      "albumId": 29,
       "title": "Romántico",
       "color": "",
       "cover": "https://imanol-llona-music-files.pages.dev/albums/Romántico/cover.jpg",
@@ -366,7 +379,7 @@
     },
     {
       "id": "soul",
-      "albumId": 29,
+      "albumId": 30,
       "title": "Soul",
       "color": "",
       "cover": "https://imanol-llona-music-files.pages.dev/albums/Soul/cover.jpg",
@@ -379,7 +392,7 @@
     },
     {
       "id": "canciones",
-      "albumId": 30,
+      "albumId": 31,
       "title": "Canciones",
       "color": "",
       "cover": "https://imanol-llona-music-files.pages.dev/albums/Z-Canciones/cover.jpg",
@@ -1439,6 +1452,42 @@
     {
       "id": 88,
       "albumId": 13,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Ambient/01 - 17.mp3",
+      "title": "17",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Ambient/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Ambient",
+      "duration": "2:02"
+    },
+    {
+      "id": 89,
+      "albumId": 13,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Ambient/02 - 138.mp3",
+      "title": "138",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Ambient/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Ambient",
+      "duration": "1:26"
+    },
+    {
+      "id": 90,
+      "albumId": 13,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Ambient/03 - 114.mp3",
+      "title": "114",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Ambient/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Ambient",
+      "duration": "3:07"
+    },
+    {
+      "id": 91,
+      "albumId": 14,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Blues/01 - 19.mp3",
       "title": "19",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Blues/cover.jpg",
@@ -1449,8 +1498,8 @@
       "duration": "1:41"
     },
     {
-      "id": 89,
-      "albumId": 14,
+      "id": 92,
+      "albumId": 15,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/01 - 02.mp3",
       "title": "02",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/cover.jpg",
@@ -1461,8 +1510,8 @@
       "duration": "2:04"
     },
     {
-      "id": 90,
-      "albumId": 14,
+      "id": 93,
+      "albumId": 15,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/02 - 10.mp3",
       "title": "10",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/cover.jpg",
@@ -1473,8 +1522,8 @@
       "duration": "1:52"
     },
     {
-      "id": 91,
-      "albumId": 14,
+      "id": 94,
+      "albumId": 15,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/03 - 13.mp3",
       "title": "13",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/cover.jpg",
@@ -1485,8 +1534,8 @@
       "duration": "1:35"
     },
     {
-      "id": 92,
-      "albumId": 14,
+      "id": 95,
+      "albumId": 15,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/05 - 23.mp3",
       "title": "23",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/cover.jpg",
@@ -1497,8 +1546,8 @@
       "duration": "2:41"
     },
     {
-      "id": 93,
-      "albumId": 14,
+      "id": 96,
+      "albumId": 15,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/06 - 25.mp3",
       "title": "25",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/cover.jpg",
@@ -1509,8 +1558,8 @@
       "duration": "2:05"
     },
     {
-      "id": 94,
-      "albumId": 14,
+      "id": 97,
+      "albumId": 15,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/07 - 28.mp3",
       "title": "28",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/cover.jpg",
@@ -1521,8 +1570,8 @@
       "duration": "2:53"
     },
     {
-      "id": 95,
-      "albumId": 14,
+      "id": 98,
+      "albumId": 15,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/08 - 30.mp3",
       "title": "30",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/cover.jpg",
@@ -1533,8 +1582,8 @@
       "duration": "2:44"
     },
     {
-      "id": 96,
-      "albumId": 14,
+      "id": 99,
+      "albumId": 15,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/09 - 9.mp3",
       "title": "9",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/cover.jpg",
@@ -1545,8 +1594,8 @@
       "duration": "1:59"
     },
     {
-      "id": 97,
-      "albumId": 14,
+      "id": 100,
+      "albumId": 15,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/10 - 04.mp3",
       "title": "04",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/cover.jpg",
@@ -1557,8 +1606,8 @@
       "duration": "3:38"
     },
     {
-      "id": 98,
-      "albumId": 14,
+      "id": 101,
+      "albumId": 15,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/11 - 30.mp3",
       "title": "30",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/cover.jpg",
@@ -1569,8 +1618,8 @@
       "duration": "2:44"
     },
     {
-      "id": 99,
-      "albumId": 14,
+      "id": 102,
+      "albumId": 15,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/12 - 28.mp3",
       "title": "28",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/cover.jpg",
@@ -1581,8 +1630,8 @@
       "duration": "2:53"
     },
     {
-      "id": 100,
-      "albumId": 14,
+      "id": 103,
+      "albumId": 15,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/13 - 23.mp3",
       "title": "23",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/cover.jpg",
@@ -1593,8 +1642,8 @@
       "duration": "2:41"
     },
     {
-      "id": 101,
-      "albumId": 15,
+      "id": 104,
+      "albumId": 16,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Experimental/01 - 02.mp3",
       "title": "02",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Experimental/cover.jpg",
@@ -1605,8 +1654,8 @@
       "duration": "2:04"
     },
     {
-      "id": 102,
-      "albumId": 15,
+      "id": 105,
+      "albumId": 16,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Experimental/02 - 10.mp3",
       "title": "10",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Experimental/cover.jpg",
@@ -1617,8 +1666,8 @@
       "duration": "1:52"
     },
     {
-      "id": 103,
-      "albumId": 15,
+      "id": 106,
+      "albumId": 16,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Experimental/03 - 15.mp3",
       "title": "15",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Experimental/cover.jpg",
@@ -1629,8 +1678,8 @@
       "duration": "2:13"
     },
     {
-      "id": 104,
-      "albumId": 15,
+      "id": 107,
+      "albumId": 16,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Experimental/04 - 23.mp3",
       "title": "23",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Experimental/cover.jpg",
@@ -1641,8 +1690,8 @@
       "duration": "2:41"
     },
     {
-      "id": 105,
-      "albumId": 15,
+      "id": 108,
+      "albumId": 16,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Experimental/05 - 25.mp3",
       "title": "25",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Experimental/cover.jpg",
@@ -1653,8 +1702,8 @@
       "duration": "2:05"
     },
     {
-      "id": 106,
-      "albumId": 15,
+      "id": 109,
+      "albumId": 16,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Experimental/06 - 28.mp3",
       "title": "28",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Experimental/cover.jpg",
@@ -1665,8 +1714,8 @@
       "duration": "2:53"
     },
     {
-      "id": 107,
-      "albumId": 15,
+      "id": 110,
+      "albumId": 16,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Experimental/07 - 30.mp3",
       "title": "30",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Experimental/cover.jpg",
@@ -1677,8 +1726,8 @@
       "duration": "2:44"
     },
     {
-      "id": 108,
-      "albumId": 15,
+      "id": 111,
+      "albumId": 16,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Experimental/08 - Cancion Corporativa 5.mp3",
       "title": "CC",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Experimental/cover.jpg",
@@ -1689,8 +1738,8 @@
       "duration": "6:59"
     },
     {
-      "id": 109,
-      "albumId": 15,
+      "id": 112,
+      "albumId": 16,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Experimental/09 - 138.mp3",
       "title": "138",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Experimental/cover.jpg",
@@ -1701,8 +1750,8 @@
       "duration": "1:26"
     },
     {
-      "id": 110,
-      "albumId": 15,
+      "id": 113,
+      "albumId": 16,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Experimental/10 - 114.mp3",
       "title": "114",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Experimental/cover.jpg",
@@ -1713,8 +1762,8 @@
       "duration": "3:07"
     },
     {
-      "id": 111,
-      "albumId": 15,
+      "id": 114,
+      "albumId": 16,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Experimental/11 - Andrew 1.mp3",
       "title": "A",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Experimental/cover.jpg",
@@ -1725,8 +1774,8 @@
       "duration": "2:08"
     },
     {
-      "id": 112,
-      "albumId": 15,
+      "id": 115,
+      "albumId": 16,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Experimental/12 - 79.mp3",
       "title": "79",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Experimental/cover.jpg",
@@ -1737,8 +1786,8 @@
       "duration": "2:13"
     },
     {
-      "id": 113,
-      "albumId": 15,
+      "id": 116,
+      "albumId": 16,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Experimental/13 - 29.mp3",
       "title": "29",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Experimental/cover.jpg",
@@ -1749,8 +1798,8 @@
       "duration": "1:55"
     },
     {
-      "id": 114,
-      "albumId": 15,
+      "id": 117,
+      "albumId": 16,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Experimental/14 - 28.mp3",
       "title": "28",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Experimental/cover.jpg",
@@ -1761,8 +1810,8 @@
       "duration": "2:53"
     },
     {
-      "id": 115,
-      "albumId": 15,
+      "id": 118,
+      "albumId": 16,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Experimental/15 - 23.mp3",
       "title": "23",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Experimental/cover.jpg",
@@ -1773,8 +1822,8 @@
       "duration": "3:45"
     },
     {
-      "id": 116,
-      "albumId": 15,
+      "id": 119,
+      "albumId": 16,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Experimental/16 - 9.mp3",
       "title": "9",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Experimental/cover.jpg",
@@ -1785,8 +1834,8 @@
       "duration": "1:59"
     },
     {
-      "id": 117,
-      "albumId": 15,
+      "id": 120,
+      "albumId": 16,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Experimental/17 - 165.mp3",
       "title": "165",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Experimental/cover.jpg",
@@ -1797,8 +1846,8 @@
       "duration": "5:41"
     },
     {
-      "id": 118,
-      "albumId": 15,
+      "id": 121,
+      "albumId": 16,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Experimental/18 - 178.mp3",
       "title": "178",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Experimental/cover.jpg",
@@ -1809,8 +1858,8 @@
       "duration": "2:48"
     },
     {
-      "id": 119,
-      "albumId": 16,
+      "id": 122,
+      "albumId": 17,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Flamenco/01 - 11.mp3",
       "title": "11",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Flamenco/cover.jpg",
@@ -1821,8 +1870,8 @@
       "duration": "2:02"
     },
     {
-      "id": 120,
-      "albumId": 17,
+      "id": 123,
+      "albumId": 18,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Folk/01 - Madrigal.mp3",
       "title": "Madrigal",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Folk/cover.jpg",
@@ -1833,8 +1882,8 @@
       "duration": "4:43"
     },
     {
-      "id": 121,
-      "albumId": 17,
+      "id": 124,
+      "albumId": 18,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Folk/02 - Requiem.mp3",
       "title": "Requiem",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Folk/cover.jpg",
@@ -1845,8 +1894,8 @@
       "duration": "1:37"
     },
     {
-      "id": 122,
-      "albumId": 17,
+      "id": 125,
+      "albumId": 18,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Folk/03 - 11.mp3",
       "title": "11",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Folk/cover.jpg",
@@ -1857,8 +1906,8 @@
       "duration": "1:30"
     },
     {
-      "id": 123,
-      "albumId": 18,
+      "id": 126,
+      "albumId": 19,
       "url": "https://imanol-llona-music-files.pages.dev/albums/House/01 - Función Continua.mp3",
       "title": "Función Continua",
       "image": "https://imanol-llona-music-files.pages.dev/albums/House/cover.jpg",
@@ -1869,8 +1918,8 @@
       "duration": "3:45"
     },
     {
-      "id": 124,
-      "albumId": 18,
+      "id": 127,
+      "albumId": 19,
       "url": "https://imanol-llona-music-files.pages.dev/albums/House/02 - Cancion Corporativa 5.mp3",
       "title": "CC",
       "image": "https://imanol-llona-music-files.pages.dev/albums/House/cover.jpg",
@@ -1881,8 +1930,8 @@
       "duration": "6:59"
     },
     {
-      "id": 125,
-      "albumId": 19,
+      "id": 128,
+      "albumId": 20,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Jazz/01 - Contrastes e Interrogantes.mp3",
       "title": "Contrastes e Interrogantes",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Jazz/cover.jpg",
@@ -1893,8 +1942,8 @@
       "duration": "5:09"
     },
     {
-      "id": 126,
-      "albumId": 20,
+      "id": 129,
+      "albumId": 21,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Madrigal/01 - Nubes Altas.mp3",
       "title": "Nubes Altas",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Madrigal/cover.jpg",
@@ -1905,8 +1954,8 @@
       "duration": "2:59"
     },
     {
-      "id": 127,
-      "albumId": 20,
+      "id": 130,
+      "albumId": 21,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Madrigal/02 - Niebla En El Tirol.mp3",
       "title": "Niebla en el Tirol",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Madrigal/cover.jpg",
@@ -1917,8 +1966,8 @@
       "duration": "2:43"
     },
     {
-      "id": 128,
-      "albumId": 21,
+      "id": 131,
+      "albumId": 22,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Neo Noir/01 - 02.mp3",
       "title": "02",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Neo Noir/cover.jpg",
@@ -1929,8 +1978,8 @@
       "duration": "2:04"
     },
     {
-      "id": 129,
-      "albumId": 21,
+      "id": 132,
+      "albumId": 22,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Neo Noir/02 - 28.mp3",
       "title": "28",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Neo Noir/cover.jpg",
@@ -1941,8 +1990,8 @@
       "duration": "2:53"
     },
     {
-      "id": 130,
-      "albumId": 21,
+      "id": 133,
+      "albumId": 22,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Neo Noir/03 - A.mp3",
       "title": "A",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Neo Noir/cover.jpg",
@@ -1953,8 +2002,8 @@
       "duration": "2:08"
     },
     {
-      "id": 131,
-      "albumId": 22,
+      "id": 134,
+      "albumId": 23,
       "url": "https://imanol-llona-music-files.pages.dev/albums/New Age/01 - Cuento Épico.mp3",
       "title": "Cuento Épico",
       "image": "https://imanol-llona-music-files.pages.dev/albums/New Age/cover.jpg",
@@ -1965,8 +2014,8 @@
       "duration": "2:50"
     },
     {
-      "id": 132,
-      "albumId": 22,
+      "id": 135,
+      "albumId": 23,
       "url": "https://imanol-llona-music-files.pages.dev/albums/New Age/02 - Azul.mp3",
       "title": "Azul",
       "image": "https://imanol-llona-music-files.pages.dev/albums/New Age/cover.jpg",
@@ -1977,8 +2026,8 @@
       "duration": "3:37"
     },
     {
-      "id": 133,
-      "albumId": 22,
+      "id": 136,
+      "albumId": 23,
       "url": "https://imanol-llona-music-files.pages.dev/albums/New Age/03 - Suite.mp3",
       "title": "Suite",
       "image": "https://imanol-llona-music-files.pages.dev/albums/New Age/cover.jpg",
@@ -1989,8 +2038,8 @@
       "duration": "15:34"
     },
     {
-      "id": 134,
-      "albumId": 22,
+      "id": 137,
+      "albumId": 23,
       "url": "https://imanol-llona-music-files.pages.dev/albums/New Age/04 - Nubes altas.mp3",
       "title": "Nubes altas",
       "image": "https://imanol-llona-music-files.pages.dev/albums/New Age/cover.jpg",
@@ -2001,8 +2050,8 @@
       "duration": "2:55"
     },
     {
-      "id": 135,
-      "albumId": 22,
+      "id": 138,
+      "albumId": 23,
       "url": "https://imanol-llona-music-files.pages.dev/albums/New Age/05 - Marcha.mp3",
       "title": "Marcha",
       "image": "https://imanol-llona-music-files.pages.dev/albums/New Age/cover.jpg",
@@ -2013,20 +2062,8 @@
       "duration": "0:49"
     },
     {
-      "id": 136,
-      "albumId": 22,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/New Age/06 - 151.mp3",
-      "title": "151",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/New Age/cover.jpg",
-      "artists": [
-        "Imanol Llona"
-      ],
-      "album": "New Age",
-      "duration": "1:39"
-    },
-    {
-      "id": 137,
-      "albumId": 22,
+      "id": 139,
+      "albumId": 23,
       "url": "https://imanol-llona-music-files.pages.dev/albums/New Age/07 - 28.mp3",
       "title": "28",
       "image": "https://imanol-llona-music-files.pages.dev/albums/New Age/cover.jpg",
@@ -2037,8 +2074,8 @@
       "duration": "2:53"
     },
     {
-      "id": 138,
-      "albumId": 22,
+      "id": 140,
+      "albumId": 23,
       "url": "https://imanol-llona-music-files.pages.dev/albums/New Age/08 - 155.mp3",
       "title": "155",
       "image": "https://imanol-llona-music-files.pages.dev/albums/New Age/cover.jpg",
@@ -2049,8 +2086,8 @@
       "duration": "1:37"
     },
     {
-      "id": 139,
-      "albumId": 22,
+      "id": 141,
+      "albumId": 23,
       "url": "https://imanol-llona-music-files.pages.dev/albums/New Age/09 - 118.mp3",
       "title": "118",
       "image": "https://imanol-llona-music-files.pages.dev/albums/New Age/cover.jpg",
@@ -2061,8 +2098,8 @@
       "duration": "2:03"
     },
     {
-      "id": 140,
-      "albumId": 22,
+      "id": 142,
+      "albumId": 23,
       "url": "https://imanol-llona-music-files.pages.dev/albums/New Age/10 - 133.mp3",
       "title": "133",
       "image": "https://imanol-llona-music-files.pages.dev/albums/New Age/cover.jpg",
@@ -2073,8 +2110,8 @@
       "duration": "2:01"
     },
     {
-      "id": 141,
-      "albumId": 22,
+      "id": 143,
+      "albumId": 23,
       "url": "https://imanol-llona-music-files.pages.dev/albums/New Age/11 - 165.mp3",
       "title": "165",
       "image": "https://imanol-llona-music-files.pages.dev/albums/New Age/cover.jpg",
@@ -2085,8 +2122,8 @@
       "duration": "5:41"
     },
     {
-      "id": 142,
-      "albumId": 22,
+      "id": 144,
+      "albumId": 23,
       "url": "https://imanol-llona-music-files.pages.dev/albums/New Age/12 - 42 (2).mp3",
       "title": "42",
       "image": "https://imanol-llona-music-files.pages.dev/albums/New Age/cover.jpg",
@@ -2097,8 +2134,8 @@
       "duration": "2:17"
     },
     {
-      "id": 143,
-      "albumId": 22,
+      "id": 145,
+      "albumId": 23,
       "url": "https://imanol-llona-music-files.pages.dev/albums/New Age/13 - 28.mp3",
       "title": "28",
       "image": "https://imanol-llona-music-files.pages.dev/albums/New Age/cover.jpg",
@@ -2109,8 +2146,8 @@
       "duration": "3:22"
     },
     {
-      "id": 144,
-      "albumId": 22,
+      "id": 146,
+      "albumId": 23,
       "url": "https://imanol-llona-music-files.pages.dev/albums/New Age/14 - 178.mp3",
       "title": "178",
       "image": "https://imanol-llona-music-files.pages.dev/albums/New Age/cover.jpg",
@@ -2121,8 +2158,8 @@
       "duration": "2:48"
     },
     {
-      "id": 145,
-      "albumId": 23,
+      "id": 147,
+      "albumId": 24,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/01 - Pequeña Suite Parte 2.mp3",
       "title": "Pequeña Suite Parte 2",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/cover.jpg",
@@ -2133,8 +2170,8 @@
       "duration": "0:57"
     },
     {
-      "id": 146,
-      "albumId": 23,
+      "id": 148,
+      "albumId": 24,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/02 - Señales de Alarma.mp3",
       "title": "Señales de Alarma",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/cover.jpg",
@@ -2145,8 +2182,8 @@
       "duration": "2:46"
     },
     {
-      "id": 147,
-      "albumId": 23,
+      "id": 149,
+      "albumId": 24,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/03 - 01.mp3",
       "title": "01",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/cover.jpg",
@@ -2157,8 +2194,8 @@
       "duration": "0:50"
     },
     {
-      "id": 148,
-      "albumId": 23,
+      "id": 150,
+      "albumId": 24,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/04 - 07.mp3",
       "title": "07",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/cover.jpg",
@@ -2169,8 +2206,8 @@
       "duration": "1:39"
     },
     {
-      "id": 149,
-      "albumId": 23,
+      "id": 151,
+      "albumId": 24,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/05 - 08.mp3",
       "title": "08",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/cover.jpg",
@@ -2181,8 +2218,8 @@
       "duration": "1:41"
     },
     {
-      "id": 150,
-      "albumId": 23,
+      "id": 152,
+      "albumId": 24,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/06 - 12.mp3",
       "title": "12",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/cover.jpg",
@@ -2193,8 +2230,8 @@
       "duration": "1:26"
     },
     {
-      "id": 151,
-      "albumId": 23,
+      "id": 153,
+      "albumId": 24,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/07 - 16.mp3",
       "title": "16",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/cover.jpg",
@@ -2205,8 +2242,8 @@
       "duration": "0:44"
     },
     {
-      "id": 152,
-      "albumId": 23,
+      "id": 154,
+      "albumId": 24,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/08 - 20.mp3",
       "title": "20",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/cover.jpg",
@@ -2217,8 +2254,8 @@
       "duration": "1:41"
     },
     {
-      "id": 153,
-      "albumId": 23,
+      "id": 155,
+      "albumId": 24,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/09 - 26.mp3",
       "title": "26",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/cover.jpg",
@@ -2229,8 +2266,8 @@
       "duration": "2:31"
     },
     {
-      "id": 154,
-      "albumId": 23,
+      "id": 156,
+      "albumId": 24,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/10 - 133.mp3",
       "title": "133",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/cover.jpg",
@@ -2241,8 +2278,8 @@
       "duration": "2:04"
     },
     {
-      "id": 155,
-      "albumId": 23,
+      "id": 157,
+      "albumId": 24,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/11 - 01.mp3",
       "title": "01",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Orquestal/cover.jpg",
@@ -2253,8 +2290,8 @@
       "duration": "0:50"
     },
     {
-      "id": 156,
-      "albumId": 24,
+      "id": 158,
+      "albumId": 25,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Pop/01 - 01.mp3",
       "title": "01",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Pop/cover.jpg",
@@ -2265,8 +2302,8 @@
       "duration": "1:37"
     },
     {
-      "id": 157,
-      "albumId": 24,
+      "id": 159,
+      "albumId": 25,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Pop/02 - 11.mp3",
       "title": "11",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Pop/cover.jpg",
@@ -2277,8 +2314,8 @@
       "duration": "1:30"
     },
     {
-      "id": 158,
-      "albumId": 24,
+      "id": 160,
+      "albumId": 25,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Pop/03 - 02.mp3",
       "title": "02",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Pop/cover.jpg",
@@ -2289,8 +2326,8 @@
       "duration": "1:06"
     },
     {
-      "id": 159,
-      "albumId": 24,
+      "id": 161,
+      "albumId": 25,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Pop/04 - 118.mp3",
       "title": "118",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Pop/cover.jpg",
@@ -2301,8 +2338,8 @@
       "duration": "2:03"
     },
     {
-      "id": 160,
-      "albumId": 28,
+      "id": 162,
+      "albumId": 29,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/01 - 155.mp3",
       "title": "155",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Romántico/cover.jpg",
@@ -2313,8 +2350,8 @@
       "duration": "1:37"
     },
     {
-      "id": 161,
-      "albumId": 28,
+      "id": 163,
+      "albumId": 29,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/02 - 118.mp3",
       "title": "118",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Romántico/cover.jpg",
@@ -2325,8 +2362,8 @@
       "duration": "2:03"
     },
     {
-      "id": 162,
-      "albumId": 28,
+      "id": 164,
+      "albumId": 29,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/03 - 133.mp3",
       "title": "133",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Romántico/cover.jpg",
@@ -2337,8 +2374,8 @@
       "duration": "2:01"
     },
     {
-      "id": 163,
-      "albumId": 28,
+      "id": 165,
+      "albumId": 29,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/04 - 152.mp3",
       "title": "152",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Romántico/cover.jpg",
@@ -2349,8 +2386,8 @@
       "duration": "3:06"
     },
     {
-      "id": 164,
-      "albumId": 28,
+      "id": 166,
+      "albumId": 29,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/05 - 178.mp3",
       "title": "178",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Romántico/cover.jpg",
