@@ -334,7 +334,7 @@
       "artists": [
         "Imanol Llona"
       ],
-      "duration": "0 min 0 sec",
+      "duration": "2 min 31 sec",
       "releaseYear": "",
       "type": "Estilo musical"
     },
@@ -2363,6 +2363,18 @@
     },
     {
       "id": 164,
+      "albumId": 26,
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Progresivo/7-2.mp3",
+      "title": "7-2",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Progresivo/cover.jpg",
+      "artists": [
+        "Imanol Llona"
+      ],
+      "album": "Progresivo",
+      "duration": "2:31"
+    },
+    {
+      "id": 165,
       "albumId": 29,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/01 - 155.mp3",
       "title": "155",
@@ -2374,7 +2386,7 @@
       "duration": "1:37"
     },
     {
-      "id": 165,
+      "id": 166,
       "albumId": 29,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/02 - 118.mp3",
       "title": "118",
@@ -2386,7 +2398,7 @@
       "duration": "2:03"
     },
     {
-      "id": 166,
+      "id": 167,
       "albumId": 29,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/03 - 133.mp3",
       "title": "133",
@@ -2398,7 +2410,7 @@
       "duration": "2:01"
     },
     {
-      "id": 167,
+      "id": 168,
       "albumId": 29,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/04 - 152.mp3",
       "title": "152",
@@ -2410,7 +2422,7 @@
       "duration": "3:06"
     },
     {
-      "id": 168,
+      "id": 169,
       "albumId": 29,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/05 - 178.mp3",
       "title": "178",
