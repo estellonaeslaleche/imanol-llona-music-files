@@ -1,0 +1,5 @@
+Albumtitle: Bat
+Albumcover:
+ReleaseDate: 2025
+TrackNames: 42,178,138-118,165,Madrigal,Nubes Altas,03,133,CC,Marcha,144,155,165,151,16,Sena,129
+Type: Album
