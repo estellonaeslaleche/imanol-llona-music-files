@@ -1,5 +1,5 @@
 Albumtitle: Javier 2
 Albumcover:
 ReleaseDate: 2025
-TrackNames: Sena,Epilogo,Requiem,03,100,18
+TrackNames: Requiem 1,Requiem 2
 Type: Album
