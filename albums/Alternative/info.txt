@@ -1,4 +1,4 @@
-Albumtitle: Alternativo
+Albumtitle: Alternative
 Albumcover:
 ReleaseDate: 
 TrackNames: Cuento Épico,Azul,Contrastes e interrogantes,17,01,79,29,A1,109,30,7,117,Primer trailer,165

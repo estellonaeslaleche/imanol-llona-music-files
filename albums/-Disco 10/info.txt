@@ -1,5 +1,5 @@
 Albumtitle: Hamar
 Albumcover:
 ReleaseDate: 2023
-TrackNames: 
+TrackNames: 7,34,170,174,Mi canción,171,172,CC 1
 Type: Album

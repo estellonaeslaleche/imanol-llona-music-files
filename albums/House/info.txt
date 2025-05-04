@@ -1,5 +1,5 @@
 Albumtitle: House
 Albumcover:
 ReleaseDate: 
-TrackNames: Función Continua,CC
+TrackNames: Función Continua,CC,7,34,171,174,170,172,Mi canción,CC 1,Primer trailer
 Type: Estilo musical

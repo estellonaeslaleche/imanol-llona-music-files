@@ -1,5 +1,5 @@
 Albumtitle: Bederatzi
 Albumcover:
 ReleaseDate: 2023
-TrackNames: 
+TrackNames: 30,119,121,97,6,94,109,8-2,143,Primer trailer,144
 Type: Album

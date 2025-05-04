@@ -1,5 +1,5 @@
 Albumtitle: Zortzi
 Albumcover:
 ReleaseDate: 2023
-TrackNames: 
+TrackNames: 7-2,91,100,129,116,120,87,9-2,108,5 portada,105
 Type: Album

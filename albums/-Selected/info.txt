@@ -1,5 +1,5 @@
-Albumtitle: Hits
+Albumtitle: Selected
 Albumcover:
 ReleaseDate: 2024
 TrackNames: Bat - Suite,Bi - Nubes altas,Hiru - 01,Hiru - 04,Hiru - 14,Bost - 01,Lau - 18,Sei - 79,Sei - 11,Sei - 23,Zazpi - 155,Zazpi - 165
-Type: Hit
+Type: Selected
