@@ -131,24 +131,24 @@
       "type": "Album"
     },
     {
-      "id": "hits",
+      "id": "selected",
       "albumId": 11,
-      "title": "Hits",
+      "title": "Selected",
       "color": "",
-      "cover": "https://imanol-llona-music-files.pages.dev/albums/-Hits/cover.jpg",
+      "cover": "https://imanol-llona-music-files.pages.dev/albums/-Selected/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
       "duration": "89 min 28 sec",
       "releaseYear": "2024",
-      "type": "Hit"
+      "type": "Selected"
     },
     {
-      "id": "alternativo",
+      "id": "alternative",
       "albumId": 12,
-      "title": "Alternativo",
+      "title": "Alternative",
       "color": "",
-      "cover": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/cover.jpg",
+      "cover": "https://imanol-llona-music-files.pages.dev/albums/Alternative/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
@@ -196,11 +196,11 @@
       "type": "Estilo musical"
     },
     {
-      "id": "electronico",
+      "id": "electronic",
       "albumId": 16,
-      "title": "Electrónico",
+      "title": "Electronic",
       "color": "",
-      "cover": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/cover.jpg",
+      "cover": "https://imanol-llona-music-files.pages.dev/albums/Electronic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
@@ -326,11 +326,11 @@
       "type": "Estilo musical"
     },
     {
-      "id": "progresivo",
+      "id": "progresive",
       "albumId": 26,
-      "title": "Progresivo",
+      "title": "Progresive",
       "color": "",
-      "cover": "https://imanol-llona-music-files.pages.dev/albums/Progresivo/cover.jpg",
+      "cover": "https://imanol-llona-music-files.pages.dev/albums/Progresive/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
@@ -339,11 +339,11 @@
       "type": "Estilo musical"
     },
     {
-      "id": "psicodelia",
+      "id": "psychedelia",
       "albumId": 27,
-      "title": "Psicodelia",
+      "title": "Psychedelia",
       "color": "",
-      "cover": "https://imanol-llona-music-files.pages.dev/albums/Psicodelia/cover.jpg",
+      "cover": "https://imanol-llona-music-files.pages.dev/albums/Psychedelia/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
@@ -365,11 +365,11 @@
       "type": "Estilo musical"
     },
     {
-      "id": "romantico",
+      "id": "romantic",
       "albumId": 29,
-      "title": "Romántico",
+      "title": "Romantic",
       "color": "",
-      "cover": "https://imanol-llona-music-files.pages.dev/albums/Romántico/cover.jpg",
+      "cover": "https://imanol-llona-music-files.pages.dev/albums/Romantic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
@@ -1212,7 +1212,7 @@
       "id": 69,
       "albumId": 8,
       "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 08/01 - 7-2.mp3",
-      "title": "01 - 7-2",
+      "title": "7-2",
       "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 08/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1224,7 +1224,7 @@
       "id": 70,
       "albumId": 8,
       "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 08/02 - 91.mp3",
-      "title": "02 - 91",
+      "title": "91",
       "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 08/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1236,7 +1236,7 @@
       "id": 71,
       "albumId": 8,
       "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 08/03 - 100.mp3",
-      "title": "03 - 100",
+      "title": "100",
       "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 08/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1248,7 +1248,7 @@
       "id": 72,
       "albumId": 8,
       "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 08/04 - 129.mp3",
-      "title": "04 - 129",
+      "title": "129",
       "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 08/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1260,7 +1260,7 @@
       "id": 73,
       "albumId": 8,
       "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 08/05 - 116.mp3",
-      "title": "05 - 116",
+      "title": "116",
       "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 08/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1272,7 +1272,7 @@
       "id": 74,
       "albumId": 8,
       "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 08/06 - 120.mp3",
-      "title": "06 - 120",
+      "title": "120",
       "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 08/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1284,7 +1284,7 @@
       "id": 75,
       "albumId": 8,
       "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 08/07 - 87.mp3",
-      "title": "07 - 87",
+      "title": "87",
       "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 08/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1296,7 +1296,7 @@
       "id": 76,
       "albumId": 8,
       "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 08/08 - 9-2.mp3",
-      "title": "08 - 9-2",
+      "title": "9-2",
       "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 08/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1308,7 +1308,7 @@
       "id": 77,
       "albumId": 8,
       "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 08/09 - 108.mp3",
-      "title": "09 - 108",
+      "title": "108",
       "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 08/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1320,7 +1320,7 @@
       "id": 78,
       "albumId": 8,
       "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 08/10 - 5 portada.mp3",
-      "title": "10 - 5 portada",
+      "title": "5 portada",
       "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 08/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1332,7 +1332,7 @@
       "id": 79,
       "albumId": 8,
       "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 08/11 - 105.mp3",
-      "title": "11 - 105",
+      "title": "105",
       "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 08/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1344,7 +1344,7 @@
       "id": 80,
       "albumId": 9,
       "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 09/01 - 30.mp3",
-      "title": "01 - 30",
+      "title": "30",
       "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 09/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1356,7 +1356,7 @@
       "id": 81,
       "albumId": 9,
       "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 09/02 - 119.mp3",
-      "title": "02 - 119",
+      "title": "119",
       "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 09/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1368,7 +1368,7 @@
       "id": 82,
       "albumId": 9,
       "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 09/03 - 121.mp3",
-      "title": "03 - 121",
+      "title": "121",
       "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 09/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1380,7 +1380,7 @@
       "id": 83,
       "albumId": 9,
       "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 09/04 - 97.mp3",
-      "title": "04 - 97",
+      "title": "97",
       "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 09/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1392,7 +1392,7 @@
       "id": 84,
       "albumId": 9,
       "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 09/05 - 6.mp3",
-      "title": "05 - 6",
+      "title": "6",
       "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 09/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1404,7 +1404,7 @@
       "id": 85,
       "albumId": 9,
       "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 09/06 - 94.mp3",
-      "title": "06 - 94",
+      "title": "94",
       "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 09/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1416,7 +1416,7 @@
       "id": 86,
       "albumId": 9,
       "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 09/07 - 109.mp3",
-      "title": "07 - 109",
+      "title": "109",
       "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 09/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1428,7 +1428,7 @@
       "id": 87,
       "albumId": 9,
       "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 09/08 - 8-2.mp3",
-      "title": "08 - 8-2",
+      "title": "8-2",
       "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 09/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1440,7 +1440,7 @@
       "id": 88,
       "albumId": 9,
       "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 09/09 - 143.mp3",
-      "title": "09 - 143",
+      "title": "143",
       "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 09/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1452,7 +1452,7 @@
       "id": 89,
       "albumId": 9,
       "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 09/10 - primer trailer.mp3",
-      "title": "10 - primer trailer",
+      "title": "Primer trailer",
       "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 09/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1464,7 +1464,7 @@
       "id": 90,
       "albumId": 9,
       "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 09/11 - 144.mp3",
-      "title": "11 - 144",
+      "title": "144",
       "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 09/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1476,7 +1476,7 @@
       "id": 91,
       "albumId": 10,
       "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 10/01 - 7.mp3",
-      "title": "01 - 7",
+      "title": "7",
       "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 10/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1488,7 +1488,7 @@
       "id": 92,
       "albumId": 10,
       "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 10/02 - 34.mp3",
-      "title": "02 - 34",
+      "title": "34",
       "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 10/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1500,7 +1500,7 @@
       "id": 93,
       "albumId": 10,
       "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 10/03 - 170.mp3",
-      "title": "03 - 170",
+      "title": "170",
       "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 10/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1512,7 +1512,7 @@
       "id": 94,
       "albumId": 10,
       "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 10/04 - 174.mp3",
-      "title": "04 - 174",
+      "title": "174",
       "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 10/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1524,7 +1524,7 @@
       "id": 95,
       "albumId": 10,
       "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 10/05 - Mi canción.mp3",
-      "title": "05 - Mi canción",
+      "title": "Mi canción",
       "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 10/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1536,7 +1536,7 @@
       "id": 96,
       "albumId": 10,
       "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 10/06 - 171.mp3",
-      "title": "06 - 171",
+      "title": "171",
       "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 10/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1548,7 +1548,7 @@
       "id": 97,
       "albumId": 10,
       "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 10/07 - 172.mp3",
-      "title": "07 - 172",
+      "title": "172",
       "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 10/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1560,7 +1560,7 @@
       "id": 98,
       "albumId": 10,
       "url": "https://imanol-llona-music-files.pages.dev/albums/-Disco 10/08 - cc 1.mp3",
-      "title": "08 - cc 1",
+      "title": "CC 1",
       "image": "https://imanol-llona-music-files.pages.dev/albums/-Disco 10/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -1571,469 +1571,469 @@
     {
       "id": 99,
       "albumId": 11,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/-Hits/01 - Suite.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Selected/01 - Suite.mp3",
       "title": "Bat - Suite",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/-Hits/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Selected/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Hits",
+      "album": "Selected",
       "duration": "15:34"
     },
     {
       "id": 100,
       "albumId": 11,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/-Hits/02 - Nubes altas.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Selected/02 - Nubes altas.mp3",
       "title": "Bi - Nubes altas",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/-Hits/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Selected/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Hits",
+      "album": "Selected",
       "duration": "2:55"
     },
     {
       "id": 101,
       "albumId": 11,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/-Hits/03 - 01.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Selected/03 - 01.mp3",
       "title": "Hiru - 01",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/-Hits/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Selected/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Hits",
+      "album": "Selected",
       "duration": "0:50"
     },
     {
       "id": 102,
       "albumId": 11,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/-Hits/04 - 04.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Selected/04 - 04.mp3",
       "title": "Hiru - 04",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/-Hits/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Selected/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Hits",
+      "album": "Selected",
       "duration": "3:38"
     },
     {
       "id": 103,
       "albumId": 11,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/-Hits/05 - 14.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Selected/05 - 14.mp3",
       "title": "Hiru - 14",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/-Hits/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Selected/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Hits",
+      "album": "Selected",
       "duration": "1:45"
     },
     {
       "id": 104,
       "albumId": 11,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/-Hits/06 - 01.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Selected/06 - 01.mp3",
       "title": "Bost - 01",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/-Hits/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Selected/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Hits",
+      "album": "Selected",
       "duration": "6:59"
     },
     {
       "id": 105,
       "albumId": 11,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/-Hits/07 - 18.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Selected/07 - 18.mp3",
       "title": "Lau - 18",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/-Hits/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Selected/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Hits",
+      "album": "Selected",
       "duration": "2:31"
     },
     {
       "id": 106,
       "albumId": 11,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/-Hits/08 - 34.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Selected/08 - 34.mp3",
       "title": "Sei - 79",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/-Hits/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Selected/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Hits",
+      "album": "Selected",
       "duration": "4:12"
     },
     {
       "id": 107,
       "albumId": 11,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/-Hits/09 - 79.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Selected/09 - 79.mp3",
       "title": "Sei - 11",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/-Hits/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Selected/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Hits",
+      "album": "Selected",
       "duration": "2:13"
     },
     {
       "id": 108,
       "albumId": 11,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/-Hits/10 - Mi canción.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Selected/10 - Mi canción.mp3",
       "title": "Sei - 23",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/-Hits/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Selected/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Hits",
+      "album": "Selected",
       "duration": "5:04"
     },
     {
       "id": 109,
       "albumId": 11,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/-Hits/11 - 11.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Selected/11 - 11.mp3",
       "title": "Zazpi - 155",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/-Hits/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Selected/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Hits",
+      "album": "Selected",
       "duration": "1:30"
     },
     {
       "id": 110,
       "albumId": 11,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/-Hits/12 - 23.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Selected/12 - 23.mp3",
       "title": "Zazpi - 165",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/-Hits/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Selected/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Hits",
+      "album": "Selected",
       "duration": "3:45"
     },
     {
       "id": 111,
       "albumId": 11,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/-Hits/13 - 155.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Selected/13 - 155.mp3",
       "title": "13 - 155",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/-Hits/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Selected/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Hits",
+      "album": "Selected",
       "duration": "1:37"
     },
     {
       "id": 112,
       "albumId": 11,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/-Hits/14 - 165.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Selected/14 - 165.mp3",
       "title": "14 - 165",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/-Hits/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Selected/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Hits",
+      "album": "Selected",
       "duration": "5:41"
     },
     {
       "id": 113,
       "albumId": 11,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/-Hits/15 - 7-2.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Selected/15 - 7-2.mp3",
       "title": "15 - 7-2",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/-Hits/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Selected/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Hits",
+      "album": "Selected",
       "duration": "2:31"
     },
     {
       "id": 114,
       "albumId": 11,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/-Hits/16 - 129.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Selected/16 - 129.mp3",
       "title": "16 - 129",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/-Hits/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Selected/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Hits",
+      "album": "Selected",
       "duration": "3:27"
     },
     {
       "id": 115,
       "albumId": 11,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/-Hits/17 - 116.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Selected/17 - 116.mp3",
       "title": "17 - 116",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/-Hits/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Selected/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Hits",
+      "album": "Selected",
       "duration": "2:06"
     },
     {
       "id": 116,
       "albumId": 11,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/-Hits/18 - 30.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Selected/18 - 30.mp3",
       "title": "18 - 30",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/-Hits/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Selected/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Hits",
+      "album": "Selected",
       "duration": "2:06"
     },
     {
       "id": 117,
       "albumId": 11,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/-Hits/19 - 144.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Selected/19 - 144.mp3",
       "title": "19 - 144",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/-Hits/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Selected/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Hits",
+      "album": "Selected",
       "duration": "1:42"
     },
     {
       "id": 118,
       "albumId": 11,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/-Hits/20 - 94.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Selected/20 - 94.mp3",
       "title": "20 - 94",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/-Hits/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Selected/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Hits",
+      "album": "Selected",
       "duration": "1:35"
     },
     {
       "id": 119,
       "albumId": 11,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/-Hits/21 - 7.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Selected/21 - 7.mp3",
       "title": "21 - 7",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/-Hits/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Selected/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Hits",
+      "album": "Selected",
       "duration": "2:46"
     },
     {
       "id": 120,
       "albumId": 11,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/-Hits/22 - 171.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Selected/22 - 171.mp3",
       "title": "22 - 171",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/-Hits/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Selected/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Hits",
+      "album": "Selected",
       "duration": "2:58"
     },
     {
       "id": 121,
       "albumId": 11,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/-Hits/23 - 109.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Selected/23 - 109.mp3",
       "title": "23 - 109",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/-Hits/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Selected/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Hits",
+      "album": "Selected",
       "duration": "2:25"
     },
     {
       "id": 122,
       "albumId": 11,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/-Hits/24 - 170.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Selected/24 - 170.mp3",
       "title": "24 - 170",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/-Hits/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Selected/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Hits",
+      "album": "Selected",
       "duration": "4:05"
     },
     {
       "id": 123,
       "albumId": 11,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/-Hits/25 - cc 1.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/-Selected/25 - cc 1.mp3",
       "title": "25 - cc 1",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/-Hits/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/-Selected/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Hits",
+      "album": "Selected",
       "duration": "5:21"
     },
     {
       "id": 124,
       "albumId": 12,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/01 - 02 Cuento Épico.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Alternative/01 - 02 Cuento Épico.mp3",
       "title": "Cuento Épico",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Alternative/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Alternativo",
+      "album": "Alternative",
       "duration": "2:50"
     },
     {
       "id": 125,
       "albumId": 12,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/02 - 03 Azul.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Alternative/02 - 03 Azul.mp3",
       "title": "Azul",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Alternative/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Alternativo",
+      "album": "Alternative",
       "duration": "3:37"
     },
     {
       "id": 126,
       "albumId": 12,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/03 - 12 - Contrastes e interrogantes.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Alternative/03 - 12 - Contrastes e interrogantes.mp3",
       "title": "Contrastes e interrogantes",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Alternative/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Alternativo",
+      "album": "Alternative",
       "duration": "5:09"
     },
     {
       "id": 127,
       "albumId": 12,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/04 - 17.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Alternative/04 - 17.mp3",
       "title": "17",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Alternative/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Alternativo",
+      "album": "Alternative",
       "duration": "2:02"
     },
     {
       "id": 128,
       "albumId": 12,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/05 - 01.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Alternative/05 - 01.mp3",
       "title": "01",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Alternative/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Alternativo",
+      "album": "Alternative",
       "duration": "6:59"
     },
     {
       "id": 129,
       "albumId": 12,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/06 - 79.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Alternative/06 - 79.mp3",
       "title": "79",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Alternative/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Alternativo",
+      "album": "Alternative",
       "duration": "2:13"
     },
     {
       "id": 130,
       "albumId": 12,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/07 - 29.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Alternative/07 - 29.mp3",
       "title": "29",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Alternative/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Alternativo",
+      "album": "Alternative",
       "duration": "1:55"
     },
     {
       "id": 131,
       "albumId": 12,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/08 - A 1.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Alternative/08 - A 1.mp3",
       "title": "A1",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Alternative/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Alternativo",
+      "album": "Alternative",
       "duration": "1:18"
     },
     {
       "id": 132,
       "albumId": 12,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/09 - 109.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Alternative/09 - 109.mp3",
       "title": "109",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Alternative/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Alternativo",
+      "album": "Alternative",
       "duration": "2:25"
     },
     {
       "id": 133,
       "albumId": 12,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/10 - 30.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Alternative/10 - 30.mp3",
       "title": "30",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Alternative/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Alternativo",
+      "album": "Alternative",
       "duration": "2:06"
     },
     {
       "id": 134,
       "albumId": 12,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/11 - 7.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Alternative/11 - 7.mp3",
       "title": "7",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Alternative/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Alternativo",
+      "album": "Alternative",
       "duration": "2:46"
     },
     {
       "id": 135,
       "albumId": 12,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/12 - 118.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Alternative/12 - 118.mp3",
       "title": "117",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Alternative/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Alternativo",
+      "album": "Alternative",
       "duration": "2:02"
     },
     {
       "id": 136,
       "albumId": 12,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/13 - primer trailer.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Alternative/13 - primer trailer.mp3",
       "title": "Primer trailer",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Alternative/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Alternativo",
+      "album": "Alternative",
       "duration": "2:16"
     },
     {
       "id": 137,
       "albumId": 12,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/14 - 165.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Alternative/14 - 165.mp3",
       "title": "165",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Alternativo/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Alternative/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Alternativo",
+      "album": "Alternative",
       "duration": "5:41"
     },
     {
@@ -2088,7 +2088,7 @@
       "id": 142,
       "albumId": 13,
       "url": "https://imanol-llona-music-files.pages.dev/albums/Ambient/05 - 165.mp3",
-      "title": "05 - 165",
+      "title": "165",
       "image": "https://imanol-llona-music-files.pages.dev/albums/Ambient/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -2159,133 +2159,133 @@
     {
       "id": 148,
       "albumId": 16,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/01 - 02.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Electronic/01 - 02.mp3",
       "title": "02",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Electronic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Electrónico",
+      "album": "Electronic",
       "duration": "2:04"
     },
     {
       "id": 149,
       "albumId": 16,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/02 - 10.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Electronic/02 - 10.mp3",
       "title": "10",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Electronic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Electrónico",
+      "album": "Electronic",
       "duration": "1:52"
     },
     {
       "id": 150,
       "albumId": 16,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/03 - 13.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Electronic/03 - 13.mp3",
       "title": "13",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Electronic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Electrónico",
+      "album": "Electronic",
       "duration": "1:35"
     },
     {
       "id": 151,
       "albumId": 16,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/05 - 23.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Electronic/05 - 23.mp3",
       "title": "23",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Electronic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Electrónico",
+      "album": "Electronic",
       "duration": "2:41"
     },
     {
       "id": 152,
       "albumId": 16,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/06 - 25.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Electronic/06 - 25.mp3",
       "title": "25",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Electronic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Electrónico",
+      "album": "Electronic",
       "duration": "2:05"
     },
     {
       "id": 153,
       "albumId": 16,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/07 - 28.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Electronic/07 - 28.mp3",
       "title": "28",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Electronic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Electrónico",
+      "album": "Electronic",
       "duration": "2:53"
     },
     {
       "id": 154,
       "albumId": 16,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/08 - 30.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Electronic/08 - 30.mp3",
       "title": "30",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Electronic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Electrónico",
+      "album": "Electronic",
       "duration": "2:44"
     },
     {
       "id": 155,
       "albumId": 16,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/09 - 9.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Electronic/09 - 9.mp3",
       "title": "9",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Electronic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Electrónico",
+      "album": "Electronic",
       "duration": "1:59"
     },
     {
       "id": 156,
       "albumId": 16,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/10 - 04.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Electronic/10 - 04.mp3",
       "title": "04",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Electronic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Electrónico",
+      "album": "Electronic",
       "duration": "3:38"
     },
     {
       "id": 157,
       "albumId": 16,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/11 - 28.mp3",
-      "title": "11 - 28",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/cover.jpg",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Electronic/11 - 28.mp3",
+      "title": "28",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Electronic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Electrónico",
+      "album": "Electronic",
       "duration": "2:53"
     },
     {
       "id": 158,
       "albumId": 16,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/12 - 23.mp3",
-      "title": "12 - 23",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Electrónico/cover.jpg",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Electronic/12 - 23.mp3",
+      "title": "23",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Electronic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Electrónico",
+      "album": "Electronic",
       "duration": "2:41"
     },
     {
@@ -2640,7 +2640,7 @@
       "id": 188,
       "albumId": 19,
       "url": "https://imanol-llona-music-files.pages.dev/albums/House/03 - 7.mp3",
-      "title": "03 - 7",
+      "title": "7",
       "image": "https://imanol-llona-music-files.pages.dev/albums/House/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -2652,7 +2652,7 @@
       "id": 189,
       "albumId": 19,
       "url": "https://imanol-llona-music-files.pages.dev/albums/House/04 - 34.mp3",
-      "title": "04 - 34",
+      "title": "34",
       "image": "https://imanol-llona-music-files.pages.dev/albums/House/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -2664,7 +2664,7 @@
       "id": 190,
       "albumId": 19,
       "url": "https://imanol-llona-music-files.pages.dev/albums/House/05 - 171.mp3",
-      "title": "05 - 171",
+      "title": "171",
       "image": "https://imanol-llona-music-files.pages.dev/albums/House/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -2676,7 +2676,7 @@
       "id": 191,
       "albumId": 19,
       "url": "https://imanol-llona-music-files.pages.dev/albums/House/06 - 174.mp3",
-      "title": "06 - 174",
+      "title": "174",
       "image": "https://imanol-llona-music-files.pages.dev/albums/House/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -2688,7 +2688,7 @@
       "id": 192,
       "albumId": 19,
       "url": "https://imanol-llona-music-files.pages.dev/albums/House/07 - 170.mp3",
-      "title": "07 - 170",
+      "title": "170",
       "image": "https://imanol-llona-music-files.pages.dev/albums/House/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -2700,7 +2700,7 @@
       "id": 193,
       "albumId": 19,
       "url": "https://imanol-llona-music-files.pages.dev/albums/House/08 - 172.mp3",
-      "title": "08 - 172",
+      "title": "172",
       "image": "https://imanol-llona-music-files.pages.dev/albums/House/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -2712,7 +2712,7 @@
       "id": 194,
       "albumId": 19,
       "url": "https://imanol-llona-music-files.pages.dev/albums/House/09 - Mi canción.mp3",
-      "title": "09 - Mi canción",
+      "title": "Mi canción",
       "image": "https://imanol-llona-music-files.pages.dev/albums/House/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -2724,7 +2724,7 @@
       "id": 195,
       "albumId": 19,
       "url": "https://imanol-llona-music-files.pages.dev/albums/House/10 - cc 1.mp3",
-      "title": "10 - cc 1",
+      "title": "CC 1",
       "image": "https://imanol-llona-music-files.pages.dev/albums/House/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -2736,7 +2736,7 @@
       "id": 196,
       "albumId": 19,
       "url": "https://imanol-llona-music-files.pages.dev/albums/House/11 - primer trailer.mp3",
-      "title": "11 - primer trailer",
+      "title": "Primer trailer",
       "image": "https://imanol-llona-music-files.pages.dev/albums/House/cover.jpg",
       "artists": [
         "Imanol Llona"
@@ -3275,241 +3275,241 @@
     {
       "id": 241,
       "albumId": 26,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Progresivo/01 - 7-2.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Progresive/01 - 7-2.mp3",
       "title": "7-2",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Progresivo/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Progresive/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Progresivo",
+      "album": "Progresive",
       "duration": "2:31"
     },
     {
       "id": 242,
       "albumId": 26,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Progresivo/02 - Cuento Épico.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Progresive/02 - Cuento Épico.mp3",
       "title": "Cuanto Épico",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Progresivo/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Progresive/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Progresivo",
+      "album": "Progresive",
       "duration": "2:50"
     },
     {
       "id": 243,
       "albumId": 26,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Progresivo/03 - Azul.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Progresive/03 - Azul.mp3",
       "title": "Azul",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Progresivo/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Progresive/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Progresivo",
+      "album": "Progresive",
       "duration": "3:37"
     },
     {
       "id": 244,
       "albumId": 26,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Progresivo/04 - Escalera de caracol.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Progresive/04 - Escalera de caracol.mp3",
       "title": "Escalera de caracol",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Progresivo/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Progresive/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Progresivo",
+      "album": "Progresive",
       "duration": "3:06"
     },
     {
       "id": 245,
       "albumId": 26,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Progresivo/05 - Suite.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Progresive/05 - Suite.mp3",
       "title": "Suite",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Progresivo/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Progresive/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Progresivo",
+      "album": "Progresive",
       "duration": "15:34"
     },
     {
       "id": 246,
       "albumId": 26,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Progresivo/06 - Contrastes e interrogantes.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Progresive/06 - Contrastes e interrogantes.mp3",
       "title": "Contraste e interrogantes",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Progresivo/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Progresive/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Progresivo",
+      "album": "Progresive",
       "duration": "5:09"
     },
     {
       "id": 247,
       "albumId": 26,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Progresivo/07 - 09.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Progresive/07 - 09.mp3",
       "title": "09",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Progresivo/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Progresive/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Progresivo",
+      "album": "Progresive",
       "duration": "1:15"
     },
     {
       "id": 248,
       "albumId": 26,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Progresivo/08 - 29.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Progresive/08 - 29.mp3",
       "title": "29",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Progresivo/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Progresive/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Progresivo",
+      "album": "Progresive",
       "duration": "1:55"
     },
     {
       "id": 249,
       "albumId": 26,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Progresivo/09 - 23.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Progresive/09 - 23.mp3",
       "title": "23",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Progresivo/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Progresive/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Progresivo",
+      "album": "Progresive",
       "duration": "2:41"
     },
     {
       "id": 250,
       "albumId": 26,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Progresivo/10 - 23-2.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Progresive/10 - 23-2.mp3",
       "title": "23-2",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Progresivo/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Progresive/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Progresivo",
+      "album": "Progresive",
       "duration": "3:45"
     },
     {
       "id": 251,
       "albumId": 26,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Progresivo/11 - 165.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Progresive/11 - 165.mp3",
       "title": "165",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Progresivo/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Progresive/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Progresivo",
+      "album": "Progresive",
       "duration": "5:41"
     },
     {
       "id": 252,
       "albumId": 26,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Progresivo/12 - 178.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Progresive/12 - 178.mp3",
       "title": "178",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Progresivo/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Progresive/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Progresivo",
+      "album": "Progresive",
       "duration": "2:48"
     },
     {
       "id": 253,
       "albumId": 27,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Psicodelia/01 - 06.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Psychedelia/01 - 06.mp3",
       "title": "06",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Psicodelia/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Psychedelia/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Psicodelia",
+      "album": "Psychedelia",
       "duration": "1:15"
     },
     {
       "id": 254,
       "albumId": 27,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Psicodelia/02 - 09.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Psychedelia/02 - 09.mp3",
       "title": "09",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Psicodelia/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Psychedelia/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Psicodelia",
+      "album": "Psychedelia",
       "duration": "1:15"
     },
     {
       "id": 255,
       "albumId": 27,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Psicodelia/03 - 17.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Psychedelia/03 - 17.mp3",
       "title": "17",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Psicodelia/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Psychedelia/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Psicodelia",
+      "album": "Psychedelia",
       "duration": "2:02"
     },
     {
       "id": 256,
       "albumId": 27,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Psicodelia/04 - 138.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Psychedelia/04 - 138.mp3",
       "title": "138",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Psicodelia/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Psychedelia/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Psicodelia",
+      "album": "Psychedelia",
       "duration": "1:26"
     },
     {
       "id": 257,
       "albumId": 27,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Psicodelia/05 - 114.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Psychedelia/05 - 114.mp3",
       "title": "114",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Psicodelia/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Psychedelia/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Psicodelia",
+      "album": "Psychedelia",
       "duration": "3:07"
     },
     {
       "id": 258,
       "albumId": 27,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Psicodelia/06 - 08.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Psychedelia/06 - 08.mp3",
       "title": "08",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Psicodelia/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Psychedelia/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Psicodelia",
+      "album": "Psychedelia",
       "duration": "2:08"
     },
     {
       "id": 259,
       "albumId": 27,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Psicodelia/07 - 23.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Psychedelia/07 - 23.mp3",
       "title": "23",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Psicodelia/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Psychedelia/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Psicodelia",
+      "album": "Psychedelia",
       "duration": "3:45"
     },
     {
       "id": 260,
       "albumId": 27,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Psicodelia/08 - Niebla en el Tirol.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Psychedelia/08 - Niebla en el Tirol.mp3",
       "title": "Niebla en el Tirol",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Psicodelia/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Psychedelia/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Psicodelia",
+      "album": "Psychedelia",
       "duration": "2:40"
     },
     {
@@ -3599,361 +3599,361 @@
     {
       "id": 268,
       "albumId": 29,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/01 - 155.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Romantic/01 - 155.mp3",
       "title": "155",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Romántico/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Romantic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Romántico",
+      "album": "Romantic",
       "duration": "1:37"
     },
     {
       "id": 269,
       "albumId": 29,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/02 - 118.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Romantic/02 - 118.mp3",
       "title": "118",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Romántico/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Romantic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Romántico",
+      "album": "Romantic",
       "duration": "2:03"
     },
     {
       "id": 270,
       "albumId": 29,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/03 - 133.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Romantic/03 - 133.mp3",
       "title": "133",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Romántico/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Romantic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Romántico",
+      "album": "Romantic",
       "duration": "2:01"
     },
     {
       "id": 271,
       "albumId": 29,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/04 - 152.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Romantic/04 - 152.mp3",
       "title": "152",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Romántico/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Romantic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Romántico",
+      "album": "Romantic",
       "duration": "3:06"
     },
     {
       "id": 272,
       "albumId": 29,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/05 - 178.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Romantic/05 - 178.mp3",
       "title": "178",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Romántico/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Romantic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Romántico",
+      "album": "Romantic",
       "duration": "2:48"
     },
     {
       "id": 273,
       "albumId": 29,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/06 - 01.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Romantic/06 - 01.mp3",
       "title": "01",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Romántico/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Romantic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Romántico",
+      "album": "Romantic",
       "duration": "0:50"
     },
     {
       "id": 274,
       "albumId": 29,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/07 - 08.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Romantic/07 - 08.mp3",
       "title": "08",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Romántico/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Romantic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Romántico",
+      "album": "Romantic",
       "duration": "1:41"
     },
     {
       "id": 275,
       "albumId": 29,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/08 - 11.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Romantic/08 - 11.mp3",
       "title": "11",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Romántico/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Romantic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Romántico",
+      "album": "Romantic",
       "duration": "2:02"
     },
     {
       "id": 276,
       "albumId": 29,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/09 - 14.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Romantic/09 - 14.mp3",
       "title": "14",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Romántico/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Romantic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Romántico",
+      "album": "Romantic",
       "duration": "1:45"
     },
     {
       "id": 277,
       "albumId": 29,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/10 - 18.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Romantic/10 - 18.mp3",
       "title": "18",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Romántico/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Romantic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Romántico",
+      "album": "Romantic",
       "duration": "2:31"
     },
     {
       "id": 278,
       "albumId": 29,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/11 - 20.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Romantic/11 - 20.mp3",
       "title": "20",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Romántico/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Romantic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Romántico",
+      "album": "Romantic",
       "duration": "1:41"
     },
     {
       "id": 279,
       "albumId": 29,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/12 - 22.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Romantic/12 - 22.mp3",
       "title": "22",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Romántico/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Romantic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Romántico",
+      "album": "Romantic",
       "duration": "2:08"
     },
     {
       "id": 280,
       "albumId": 29,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/13 - 16.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Romantic/13 - 16.mp3",
       "title": "16",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Romántico/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Romantic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Romántico",
+      "album": "Romantic",
       "duration": "0:44"
     },
     {
       "id": 281,
       "albumId": 29,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/14 - 100.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Romantic/14 - 100.mp3",
       "title": "100",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Romántico/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Romantic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Romántico",
+      "album": "Romantic",
       "duration": "2:08"
     },
     {
       "id": 282,
       "albumId": 29,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/15 - 133.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Romantic/15 - 133.mp3",
       "title": "133",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Romántico/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Romantic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Romántico",
+      "album": "Romantic",
       "duration": "2:04"
     },
     {
       "id": 283,
       "albumId": 29,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/16 - 151.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Romantic/16 - 151.mp3",
       "title": "151",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Romántico/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Romantic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Romántico",
+      "album": "Romantic",
       "duration": "1:39"
     },
     {
       "id": 284,
       "albumId": 29,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/17 - 09.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Romantic/17 - 09.mp3",
       "title": "09",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Romántico/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Romantic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Romántico",
+      "album": "Romantic",
       "duration": "2:06"
     },
     {
       "id": 285,
       "albumId": 29,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/18 - 79.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Romantic/18 - 79.mp3",
       "title": "79",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Romántico/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Romantic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Romántico",
+      "album": "Romantic",
       "duration": "2:13"
     },
     {
       "id": 286,
       "albumId": 29,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/19 - 01.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Romantic/19 - 01.mp3",
       "title": "01",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Romántico/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Romantic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Romántico",
+      "album": "Romantic",
       "duration": "1:37"
     },
     {
       "id": 287,
       "albumId": 29,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/20 - 02.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Romantic/20 - 02.mp3",
       "title": "02",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Romántico/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Romantic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Romántico",
+      "album": "Romantic",
       "duration": "1:06"
     },
     {
       "id": 288,
       "albumId": 29,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/21 - 42.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Romantic/21 - 42.mp3",
       "title": "42",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Romántico/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Romantic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Romántico",
+      "album": "Romantic",
       "duration": "2:17"
     },
     {
       "id": 289,
       "albumId": 29,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/22 - 28.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Romantic/22 - 28.mp3",
       "title": "28",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Romántico/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Romantic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Romántico",
+      "album": "Romantic",
       "duration": "3:22"
     },
     {
       "id": 290,
       "albumId": 29,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/23 - 178.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Romantic/23 - 178.mp3",
       "title": "178",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Romántico/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Romantic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Romántico",
+      "album": "Romantic",
       "duration": "2:48"
     },
     {
       "id": 291,
       "albumId": 29,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/24 - Sena.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Romantic/24 - Sena.mp3",
       "title": "Sena",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Romántico/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Romantic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Romántico",
+      "album": "Romantic",
       "duration": "1:27"
     },
     {
       "id": 292,
       "albumId": 29,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/25 - Suite.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Romantic/25 - Suite.mp3",
       "title": "Suite",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Romántico/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Romantic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Romántico",
+      "album": "Romantic",
       "duration": "15:34"
     },
     {
       "id": 293,
       "albumId": 29,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/26 - Epilogo.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Romantic/26 - Epilogo.mp3",
       "title": "Epílogo",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Romántico/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Romantic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Romántico",
+      "album": "Romantic",
       "duration": "3:13"
     },
     {
       "id": 294,
       "albumId": 29,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/27 - Terciopelo.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Romantic/27 - Terciopelo.mp3",
       "title": "Terciopelo",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Romántico/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Romantic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Romántico",
+      "album": "Romantic",
       "duration": "2:25"
     },
     {
       "id": 295,
       "albumId": 29,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/28 - Pequeña suite parte 1.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Romantic/28 - Pequeña suite parte 1.mp3",
       "title": "Pequeña suite parte 1",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Romántico/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Romantic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Romántico",
+      "album": "Romantic",
       "duration": "0:55"
     },
     {
       "id": 296,
       "albumId": 29,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/29 - Pequeña suite parte 2.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Romantic/29 - Pequeña suite parte 2.mp3",
       "title": "Pequeña suite parte 2",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Romántico/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Romantic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Romántico",
+      "album": "Romantic",
       "duration": "0:53"
     },
     {
       "id": 297,
       "albumId": 29,
-      "url": "https://imanol-llona-music-files.pages.dev/albums/Romántico/30 - Percepción.mp3",
+      "url": "https://imanol-llona-music-files.pages.dev/albums/Romantic/30 - Percepción.mp3",
       "title": "Percepción",
-      "image": "https://imanol-llona-music-files.pages.dev/albums/Romántico/cover.jpg",
+      "image": "https://imanol-llona-music-files.pages.dev/albums/Romantic/cover.jpg",
       "artists": [
         "Imanol Llona"
       ],
-      "album": "Romántico",
+      "album": "Romantic",
       "duration": "1:51"
     }
   ]
