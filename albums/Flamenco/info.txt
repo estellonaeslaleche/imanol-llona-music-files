@@ -1,5 +1,0 @@
-Albumtitle: Flamenco
-Albumcover:
-ReleaseDate: 
-TrackNames: 11
-Type: Estilo musical

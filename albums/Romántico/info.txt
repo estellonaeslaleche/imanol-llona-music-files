@@ -1,5 +1,5 @@
 Albumtitle: Romántico
 Albumcover:
 ReleaseDate: 
-TrackNames: 155,118,133,152,178
+TrackNames: 155,118,133,152,178,01,08,11,14,18,20,22,16,100,133,151,09,79,01,02,42,28,178,Sena,Suite,Epílogo,Terciopelo,Pequeña suite parte 1,Pequeña suite parte 2,Percepción
 Type: Estilo musical

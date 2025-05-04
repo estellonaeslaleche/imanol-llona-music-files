@@ -1,5 +1,5 @@
 Albumtitle: Jazz
 Albumcover:
 ReleaseDate: 
-TrackNames: Contrastes e Interrogantes
+TrackNames: Contrastes e Interrogantes,Mi canción
 Type: Estilo musical

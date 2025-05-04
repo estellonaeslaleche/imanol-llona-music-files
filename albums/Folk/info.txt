@@ -1,5 +1,5 @@
 Albumtitle: Folk
 Albumcover:
 ReleaseDate: 
-TrackNames: Madrigal,Requiem,11
+TrackNames: Madrigal,Requiem,11,129,5 portada,94,27,28
 Type: Estilo musical
