@@ -1,5 +1,5 @@
 Albumtitle: Blues
 Albumcover:
 ReleaseDate: 
-TrackNames: 19
+TrackNames: 19,105,87
 Type: Estilo musical
