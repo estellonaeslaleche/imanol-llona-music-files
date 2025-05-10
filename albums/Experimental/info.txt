@@ -1,5 +1,5 @@
 Albumtitle: Experimental
 Albumcover:
 ReleaseDate: 
-TrackNames: 02,10,15,23,25,28,30,CC,138,114,A,79,29,23,9,165,178,Primer trailer,165
+TrackNames: 02,10,15,23,25,28,30,CC,138,114,A,79,29,23,9,165,178,Primer trailer
 Type: Estilo musical
