@@ -1,5 +1,5 @@
 Albumtitle: Azahara
 Albumcover:
 ReleaseDate: 2025
-TrackNames: Secuencia 1 - 1.1,Secuencia 1 - 1.2,Secuencia 2,Secuencia 3,Secuencia 5,Secuencia 7,Secuencia 9,Secuencia 14,Secuencia 16,Secuencia 7,Secuencia 9,Créditos finales 1,Créditos finales 2
+TrackNames: Secuencia 1 - 1.1,Secuencia 1 - 1.2,Secuencia 2,Secuencia 3,Secuencia 5,Secuencia 7,Secuencia 9,Secuencia 14,Secuencia 16,Secuencia 17,Secuencia 19,Créditos finales 1,Créditos finales 2
 Type: Album
