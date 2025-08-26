@@ -1,5 +1,5 @@
 Albumtitle: Selected
 Albumcover:
 ReleaseDate: 2024
-TrackNames: Bat - Suite,Bi - Nubes altas,Hiru - 01,Hiru - 04,Hiru - 14,Bost - 01,Lau - 18,Sei - 79,Sei - 11,Sei - 23,Zazpi - 155,Zazpi - 165,Zazpi - 155,Zazpi - 165,Zortzi - 7-2,Zortzi - 129,Zortzi - 116,Bederatzi - 30,Bederatzi - 144,Bederatzi - 94,Hamar - 7,Hamar - 171,Bederatzi - 109,Hamar - 170,Hamar - CC 1
+TrackNames: Bat - Suite,Sena,Bi - Nubes altas,Madrigal,Hiru - 03,Hiru - 01,Hiru - 04,Hiru - 14,Bost - 01,Lau - 18,Sei - 79,Sei - 11,Zazpi - 178,Sei - 23,Zazpi - 155,Zazpi - 165,Sei - 11,Zazpi - 118,Zazpi - 165,Zortzi - 7-2,Zortzi - 129,Zortzi - 116,Bederatzi - 109,Bederatzi - 30,Bederatzi - 144,Bederatzi - 94,Hamar - 7,Hamar - 34,Hamar - 170,Hamar - CC 1
 Type: Selected

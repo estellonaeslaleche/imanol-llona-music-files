@@ -2,4 +2,4 @@ Albumtitle: Madrigal
 Albumcover:
 ReleaseDate: 
 TrackNames: Nubes Altas,Niebla en el Tirol,Madrigal
-Type: Estilo musical
+Type: Music genre

@@ -2,4 +2,4 @@ Albumtitle: Rock
 Albumcover:
 ReleaseDate: 
 TrackNames: 06,19,23,27,Escalera de caracol,09,8-2,105
-Type: Estilo musical
+Type: Music genre

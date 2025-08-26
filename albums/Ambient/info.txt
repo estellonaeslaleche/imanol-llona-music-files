@@ -2,4 +2,4 @@ Albumtitle: Ambient
 Albumcover:
 ReleaseDate: 
 TrackNames: 17,138,114,Epílogo
-Type: Estilo musical
+Type: Music genre

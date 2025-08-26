@@ -2,4 +2,4 @@ Albumtitle: Pop
 Albumcover:
 ReleaseDate: 
 TrackNames: 01,11,02,118,140,120,108,121,144,97,91,155,7-2
-Type: Estilo musical
+Type: Music genre

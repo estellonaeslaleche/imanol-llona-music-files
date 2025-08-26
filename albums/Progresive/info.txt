@@ -1,5 +1,5 @@
 Albumtitle: Progresive
 Albumcover:
 ReleaseDate: 
-TrackNames: 7-2,Cuanto Épico,Azul,Escalera de caracol,Suite,Contraste e interrogantes,09,29,23,23-2,165,178
-Type: Estilo musical
+TrackNames: 7-2,Cuanto Épico,Azul,Escalera de caracol,Suite,Contraste e interrogantes,09,29,23,23-2,165
+Type: Music genre

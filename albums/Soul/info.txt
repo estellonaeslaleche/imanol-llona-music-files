@@ -2,4 +2,4 @@ Albumtitle: Soul
 Albumcover:
 ReleaseDate: 
 TrackNames: 116
-Type: Estilo musical
+Type: Music genre

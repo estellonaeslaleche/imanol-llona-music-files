@@ -2,4 +2,4 @@ Albumtitle: Romantic
 Albumcover:
 ReleaseDate: 
 TrackNames: 155,118,133,152,178,01,08,11,14,18,20,22,16,100,151,30,79,01,02,42,28,Sena,Suite,Epílogo,Terciopelo,Pequeña suite parte 1,Pequeña suite parte 2,Percepción,9-2,116
-Type: Estilo musical
+Type: Music genre

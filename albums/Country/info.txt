@@ -2,4 +2,4 @@ Albumtitle: Country
 Albumcover:
 ReleaseDate: 
 TrackNames: 129,27,94
-Type: Estilo musical
+Type: Music genre

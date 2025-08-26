@@ -2,4 +2,4 @@ Albumtitle: Neo Noir
 Albumcover:
 ReleaseDate: 
 TrackNames: 02,28,A
-Type: Estilo musical
+Type: Music genre

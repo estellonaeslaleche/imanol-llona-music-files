@@ -2,4 +2,4 @@ Albumtitle: Psychedelia
 Albumcover:
 ReleaseDate: 
 TrackNames: 06,09,17,138,114,08,23,Niebla en el Tirol
-Type: Estilo musical
+Type: Music genre
